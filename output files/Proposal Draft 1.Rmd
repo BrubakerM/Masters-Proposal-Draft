@@ -2,29 +2,86 @@
 title: "Proposal Outline (draft 1)"
 author: "Max Brubaker"
 date: "12/8/2021"
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+# Introduction:
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+__Intro to Old Growth Forests:__
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+- Significance of OGF (general and in Canada) 
+- % of forest lost
+- OGF Ecosystem services
+- Other impacts/qualities of OGF... end with something saying how the most abundant microbes in OGF are fungi, leads into...
 
-```{r cars}
-summary(cars)
+__Introduction to Fungi__  *(in OGF)* :
+
+- Fungal soil contribution/function
+
+__Introduction to Carbon__ *(in OGF)* :
+
+- See what I can find about carbon in OGF, if anything I can discuss the contrast in the literature
+ 
+
+# Successional Fungal Community Structure: (soil and fungi?)
+- General understanding of fungal community structure as forest age increases
+- Longitudinal variation (Kristen mentioned someone...)
+- Elevation variation 
+- Soil characteristic 
+- Environmental conditional changes:
+  - Warming
+  - Changes in CO2
+  - Soil moisture
+  - Tillage/physical disturbance 
+  - Other chemical disturbance
+
+
+
+
+# Fungal Communities and Carbon Dynamics: (tied into above) :
+- Fungal Carbon Functionality
+- Carbon sequestration
+- Carbon cycling
+- Carbon degradation
+- Carbon …
+
+
+# Research Hypothesis:
+
+
+
+# Materials and Methods (experimental design):
+
+
+
+# Project Timeline:
+
+
+
+# Literature Cited:
+
+
+*Maybe end the intro with the gap I am aiming to fill?* : *ex:* : An over arching issue when we consider analyzing these systems is the lack of clarity in the literature. From simple old growth forest definitions to understanding the below ground activities, is is apparent that there is much to learn about these systems. It is our aim to provide a new look at observing old growth forests by analyzing the soil fungal communities. 
+
+
+```{r, echo=FALSE}
+#I had this as another subheading but it seems repetative
+
+
+#Fungi in Old Growth Forests: (tied into above) ???
+#Seems to be a general understanding that as forest ages increase fungi become more dominant
 ```
 
-## Including Plots
 
-You can also embed plots, for example:
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+
+
+
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
