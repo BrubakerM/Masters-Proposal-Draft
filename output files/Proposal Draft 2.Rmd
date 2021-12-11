@@ -1,0 +1,95 @@
+---
+title: "Draft 1"
+author: "Max Brubaker"
+date: "12/10/2021"
+output: html_document
+bibliography: Proposal Draft Bib.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+overall goal / message to display is that we do not know how these forest soil microbial communities differ in terms of functionality. This is a huge issue as we are making major decisions (such as logging old growth forests) without fully understanding the below-ground processes. We are running under this assumption that old growth forest soils are the same (or at least operate the same) as younger/managed soil systems. 
+
+I think the overall message or story I want to tell is that these systems are dynamic and that AGE MAY INFLUENCE FUNCTIONALITY. I retain an unbiased nature as to whether or not these older systems are more "functional" than younger systems but I can without a doubt say that we need to understand them more fully before we continue to decimate and eradicate them.
+
+#### What points will support my thoughts on this?
+  - We know that forest communities change over time
+  
+  - We *know* that microbial community influences functionality (NEED MORE RESEARCH ON THIS)
+      - microbial communities influence soil chemsitry, plant community, aboveground and belowground biodiversity,
+      - these are all dynamic attributes... each are linked and as one changes resulting changes will follow... 
+      
+  - I need to have a better undersatnding of HOW current forest soils are being assessed... (NEED MORE RESEARCH ON THIS)
+  
+  - Need more information on how microbial communities change over time. 
+  
+  - Need specific exmaples showing that we are only looking at WHO is there rather than WHAT the are doing*. 
+      - eukaryotic transcriptomics.
+      
+  - Need some information showing functionality of different forest succession stages.
+```{r, echo=FALSE}
+#Notes from Mirandas Video: 
+
+# opportunity to frame your story (1-3 pages)
+
+#what is your question? - by the end of the first paragraph readers should know what your question is and why it is important.
+
+#Very important to stick to the point and focus on the topic.
+
+#Why are we asking the question and what is the gap we are trying to fill.
+
+#Once you are finished with the first paragraph. The remaining paragraphs should act as stand alone essays.
+
+#By the end of the introduction the readers should have JUST ENOUGH informaion of why this is an important question to answer and the general context. Non scientist should be able to read this and understand.
+  
+```
+__*intro sentence*__ :
+
+The current controversy in the literature among old growth forests demands a more comprehensive and collective understanding of the fate and function of these systems. 
+
+__*body*__ :
+
+This study aims to determine how fungal soil communities differ among old growth forest sucessional stages in their community structure and carbon __functionality__. 
+
+It is our belief that a significant portion of controversy/uncertainty in old growth forests (see [@Luyssaert_2008, @Gundersen_2021, @Luyssaert_2021] for example) can be contributed to the lack of understanding in below-ground processes (CITATION?).
+
+Above-ground forest processes have been studied for over a century (CITATION) and with this knowledge many regulations have been set in place. It has been noted (CITATION ~ somewhere in ogf book?) that many of these regulations have been set in place based almost soley on above-ground processes alone. Additionally, if in fact below-ground processes are considered, we are using "blanket understandings" of these systems as if they are all the same. 
+
+```{r, echo=FALSE}
+#Next would be great to throw in a (supported) statement showing how forest age influences functionality...
+
+# @Martin_2021: (Coniferous closed canopy) Wild fire vs Logging disturbance.
+    - concerns with targeting of high economic forests in logging practices. This suggests a targeted reduction in specific habitats
+
+    - Wood volume, basal area, tree density, stand height and broadleaved proportion were, respectively, 45.6, 33, 20, 19.5, and 41.5% higher in logged stands compared to the burned ones. Logged stands were thus denser and more productive than burned stands, resulting in a higher wood volume.
+
+    - this idea of "remnant" forests. It seems reffers to undisturbed forest systems within a managed area..? (need to fact check this)
+      - if so, my understanding is that even though these remnant systems are "undisturbed" they are often found to be lower in productivity along with other reduced forest characteristics such as woody biomass or stand density.
+    
+
+# @Wang_2011: linking above-ground carbon stocks reletaive to forest structural diversity. 
+    - kind of a weak paper/journal, lots of citiatons tho. 
+
+    - indicate that as stand structural diversity increases so do aboveground carbon stocks
+          - This occurs because complex forest structures allow for greater light infiltration and promote a more efficient resource use by trees, leading             to an increase in biomass and C production. 
+# @Qu_2020: bacterial community and functional changes with forest succession
+    - not a ton of useful info other than it shows as forest succession changes, as does the microbial communitie and soil functionality
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
