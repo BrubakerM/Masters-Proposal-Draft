@@ -9,8 +9,27 @@ bibliography: Proposal Draft Bib.bib
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+__BIG QUESTIONS--:
+
+What if, as a part of my thesis or even just as a lab... why don't we aim to standardize soil measurement strategies, definitions,, protocols.. we need to be doing these things on equal levels in order to be able to properly compare/contrast/understand. 
+- could seek through SES and just discuss with individuals.
+
+  - how can we ensure that we are measuring as universal as possible? *steming from the SES discussion. We need to be making measurements and definitions __common use__*.
+
+
+
 
 # Introduction
+*questions*: Why do we care about knowing soil fungal carbon functionality?
+- fungal communities are primary decomposers
+- fungal communities are some of the only decomposers that can break down lignin and cellulose. 
+- fungal communities are dominant in old growth forest systems
+    - need support in old growth systems functionality.. are they are more productive or biodense? 
+- regardless of support or rejection of old growth forest logging we are drastically reduce a (more or less) finite resource. This resource contains *information*.
+
+
+
+
 
 overall goal / message to display is that we do not know how these forest soil microbial communities differ in terms of functionality. This is a huge issue as we are making major decisions (such as logging old growth forests) without fully understanding the below-ground processes. We are running under this assumption that old growth forest soils are the same (or at least operate the same) as younger/managed soil systems. 
 
@@ -20,17 +39,20 @@ I think the overall message or story I want to tell is that these systems are dy
   - We know that forest communities change over time
   
   - We *know* that microbial community influences functionality (NEED MORE RESEARCH ON THIS)
-      - microbial communities influence soil chemsitry, plant community, aboveground and belowground biodiversity,
+      - microbial communities influence soil chemistry, plant community, above-ground and below-ground biodiversity,
       - these are all dynamic attributes... each are linked and as one changes resulting changes will follow... 
       
-  - I need to have a better undersatnding of HOW current forest soils are being assessed... (NEED MORE RESEARCH ON THIS)
+  - I need to have a better understanding of HOW current forest soils are being assessed... (NEED MORE RESEARCH ON THIS)
   
   - Need more information on how microbial communities change over time. 
   
-  - Need specific exmaples showing that we are only looking at WHO is there rather than WHAT the are doing*. 
+  - Need specific examples showing that we are only looking at WHO is there rather than WHAT the are doing*. 
       - eukaryotic transcriptomics.
       
   - Need some information showing functionality of different forest succession stages.
+  
+  
+  
 ```{r, echo=FALSE}
 #Notes from Mirandas Video: 
 
@@ -44,41 +66,123 @@ I think the overall message or story I want to tell is that these systems are dy
 
 #Once you are finished with the first paragraph. The remaining paragraphs should act as stand alone essays.
 
-#By the end of the introduction the readers should have JUST ENOUGH informaion of why this is an important question to answer and the general context. Non scientist should be able to read this and understand.
+#By the end of the introduction the readers should have JUST ENOUGH information of why this is an important question to answer and the general context. Non scientist should be able to read this and understand.
   
 ```
+
+\newpage
+
+
 __*intro sentence*__ :
 
-The current controversy in the literature among old growth forests demands a more comprehensive and collective understanding of the fate and function of these systems. 
+Current controversy in the literature among old growth forests demands a more comprehensive and collective understanding of the fate and function of these systems. 
 
 __*body*__ :
 
-This study aims to determine how fungal soil communities differ among old growth forest sucessional stages in their community structure and carbon __functionality__. 
+This study aims to determine how soil fungal communities differ among forest sucessional stages in community structure and carbon __functionality__. Emerging research suggests that increase in forest succesional stage may be associated with a number of below-ground processes(CITATIONS?). For example, it is evident that microbial community composition responds to forest successional stage development. Among this we see shifts towards a fungal dominated microbial community as forest stage develops [@Jiang_2021, ADD MORE]. A number of studies have already analyzed fungal community composition but few have looked into fungal soil functionality based on ribosomal metagenomics. There is controversy over the concept of of microbial diversity and redundancy at certain hierarchle levels. Understanding this link between microbial community composition (fungi? fungi phyla? fungi type?) and forest functionality will likely influence a number of ecosystem services. These services include but are not limited to more impactful forest management strategies and a better understanding of how ecosystems respond to a changing climate. A requirement prior to completion of this study was to be first in attempts to begin developing global soil sampling methods. Such attempts were made by connecting with x soil biologists in x different countries and establishing unanimous agreed upon soil sampling methods. (stoned ideah, maybe separate publication? Would be really cool to link with my project. )
+
+
+
+
+However microbial diversity in terms of functionality is greatly understudied. Positive correlation between soil microbial diversity and soil ecosystem multifunctionality was shown in @Delgado_Baquerizo_2016. Analyzation of soil microbial communities from a functional transcriptomic (something else) level may allow us to 
+
+
+@Yan_2020: Fungi and beacteria functional genes ~ chronosequence
+      - Soil microbial biomass (C, N and P) increased significantly in topsoil (0-20 cm) with vegitation succession.
+      - Fungal abundances annd the Fungal:Bacterial was detected along a successional gradient (???)
+  
+      - C and N cycle-related (potential) functional genes increased significantly and then stabbilized (*)
+      - recalcitrant C degredation, N reduction, and denitrification-related genes increased and labile versions decreased
+      - __fungal communitie were most correlated with ammonium N contents and root biomass__
+
+
+
+
+ @Jiang_2021: Bacterial and *Fungal* community composition and functional changes with forest succession:
+
+    - *** In this study, the soil total carbon and total nitrogen were the dominating factors affecting the soil microbial community and the structure of           fungal functional groups..
+
+
+
+
+```{r, echo=FALSE}
+#I think the below text should be the next paragraph but maybe not in the intro paragraph?
+```
+
 
 It is our belief that a significant portion of controversy/uncertainty in old growth forests (see [@Luyssaert_2008, @Gundersen_2021, @Luyssaert_2021] for example) can be contributed to the lack of understanding in below-ground processes (CITATION?).
 
-Above-ground forest processes have been studied for over a century (CITATION) and with this knowledge many regulations have been set in place. It has been noted (CITATION ~ somewhere in ogf book?) that many of these regulations have been set in place based almost soley on above-ground processes alone. Additionally, if in fact below-ground processes are considered, we are using "blanket understandings" of these systems as if they are all the same. 
+Above-ground forest processes have been studied for over a century (CITATION) and with this knowledge many regulations have been set in place. It has been noted (CITATION ~ somewhere in ogf book?) that many of these regulations have been set in place based almost soley on above-ground processes. Additionally, if in fact below-ground processes are considered, we are using "blanket understandings" of these systems as if they are all the same. 
+
+```{r, echo=FALSE}
+# i hate most of the text above this
+```
+
+While controversy is ever present and results are variable potential trends may be emerging with the increased study of old forest chronosequences (CITATIONS?) stretching into the __*standardized old growth forest ranges*__. A number of soil characteristics are appearing correlated with forest successional stage. 
+
+```{r, echo=FALSE}
+#Clean ^ up and make it a bit more impactful
+```
+
+
+
 
 ```{r, echo=FALSE}
 #Next would be great to throw in a (supported) statement showing how forest age influences functionality...
 
 # @Martin_2021: (Coniferous closed canopy) Wild fire vs Logging disturbance.
-    - concerns with targeting of high economic forests in logging practices. This suggests a targeted reduction in specific habitats
+   # - concerns with targeting of high economic forests in logging practices. This suggests a targeted reduction in specific habitats
 
-    - Wood volume, basal area, tree density, stand height and broadleaved proportion were, respectively, 45.6, 33, 20, 19.5, and 41.5% higher in logged stands compared to the burned ones. Logged stands were thus denser and more productive than burned stands, resulting in a higher wood volume.
+  # - Wood volume, basal area, tree density, stand height and broadleaved proportion were, respectively, 45.6, 33, 20, 19.5, and 41.5% higher in logged stands compared to the burned ones. Logged stands were thus denser and more productive than burned stands, resulting in a higher wood volume.
 
-    - this idea of "remnant" forests. It seems reffers to undisturbed forest systems within a managed area..? (need to fact check this)
-      - if so, my understanding is that even though these remnant systems are "undisturbed" they are often found to be lower in productivity along with other reduced forest characteristics such as woody biomass or stand density.
+  #  - this idea of "remnant" forests. It seems reffers to undisturbed forest systems within a managed area..? (need to fact check this)
+   #   - if so, my understanding is that even though these remnant systems are "undisturbed" they are often found to be lower in productivity along with other reduced forest characteristics such as woody biomass or stand density.
     
 
-# @Wang_2011: linking above-ground carbon stocks reletaive to forest structural diversity. 
-    - kind of a weak paper/journal, lots of citiatons tho. 
+# @Wang_2011: linking above-ground carbon stocks relative to forest structural diversity. 
+   # - kind of a weak paper/journal, lots of citiatons tho. 
 
-    - indicate that as stand structural diversity increases so do aboveground carbon stocks
-          - This occurs because complex forest structures allow for greater light infiltration and promote a more efficient resource use by trees, leading             to an increase in biomass and C production. 
-# @Qu_2020: bacterial community and functional changes with forest succession
-    - not a ton of useful info other than it shows as forest succession changes, as does the microbial communitie and soil functionality
+   # - indicate that as stand structural diversity increases so do aboveground carbon stocks
+      #    - This occurs because complex forest structures allow for greater light infiltration and promote a more efficient resource use by trees, leading             to an increase in biomass and C production. 
+# ****  @Qu_2020: bacterial community and functional changes with forest succession
+    #- not a ton of useful info other than it shows as forest succession changes, as does the microbial communitie and soil functionality
 
+# ****  @Jiang_2021: Bacterial and *Fungal* community composition and functional changes with forest succession:
+   # - used 16S and ITS rRNA gene sequencing to detect bacterial and fungal communities and used FAPROTAX and FUNGuild database to predict bacterial and         fungal functional groups. 
+
+  #  - The results showed that forest succession significantly changed the community composition of bacteria and fungi, among which the fungal community was more sensitive to the changes with successional stage.
+
+  #  - *** The relative abundance of ectomycorrhizal fungi significantly increased with succession, while the relative abundance of bacterial functional
+  #    groups involved in the nitrogen cycle did not change significantly, indicating that fungi might play a major regulatory role in the nutrient cycling       process during the successional process.
+
+  #  - *** In this study, the soil total carbon and total nitrogen were the dominating factors affecting the soil microbial community and the structure of           fungal functional groups..
+      
+      
+# @Whitefeld_2014: forest system succession and the resulting species composition and functionality (plant focused)
+  #    - a bit of a weaker reference but held many citations. 
+  #    - Data found that: as succession proceeds, communities occupy a greater range of functional trait space even after controlling for stem and species density. High functional diversity is important for ecological resiliency in the face of global change.
+      
+      
+# **** @ Liu_2020: Bacterial and fungal** analysis of ~160 secondary succession (chronosequence)
+   #   - During succession, soil bulk density, soluble carbon, total nitrogen and plant richness had large effects on the microbial community.
+   #   - Most prominent changes in community occured in early succesion with "relative stabilization" during late succession
+   #   - Decrease in ascomycota over time and an increase in basidiomycota overtime. Actually basidios were the only ones to show an increase over time
+   #   - bacterial and fungal absolute abundances become stable after S3 (110 years), which is consistent with the results of Darcy et al. (2018).
+      
+      
+      
+# **** @Yan_2020: Fungi and beacteria functional genes ~ chronosequence
+  #    - Soil microbial biomass (C, N and P) increased significantly in topsoil (0-20 cm) with vegitation succession.
+  #    - Fungal abundances annd the Fungal:Bacterial was detected along a successional gradient (???)
+  #    - microbial communities shift from r- to K- strategists??? both that the phylum and genus level.
+  #    - C and N cycle-related (potential) functional genes increased significantly and then stabbilized (*)
+  #    - recalcitrant C degredation, N reduction, and denitrification-related genes increased and labile versions decreased
+  #    - __fungal communitie were most correlated with ammonium N contents and root biomass__
+
+
+# Delgado_Baquerizo_2016: microbial diversity is associated with microbial biodiversity.
+  #    - Reports that soil microbial diversity positively relates to multifunctionality in terrestrial ecosystems. 
+  #    _ Our findings provide empirical evidence that any loss in microbial diversity will likely reduce multifunctionality, negatively impacting the provision of services such as climate regulation,soil     fertility and food and fibre production by terrestrial ecosystems.
 
 ```
 
@@ -89,6 +193,98 @@ Above-ground forest processes have been studied for over a century (CITATION) an
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\newpage
+
+
+# Expiremental Design:
+
+__**We are going to be analyzing soil fungal communities (meta - genomics,transcriptomics) of forest successional stages*__:
+
+What parameters would also be interesting to know wth forest age (successional stage)?
+    -__Q__: how are we defining forest "age" or successional stage. What range of area does this account for? What area do we sample over? How many areas will we measure to consider that forest covered? this leads back into how are we classifying forest stage (stand age only? how was stand age measured (check ogf book on that one))
+    -__Q__: are we accounting for type of disturbance? Because im pretty sure I have seen that type of disturbance may result in different forest response (Natural vs. athropogenic)
+
+
+
+Parameters:
+  - climate: temp, humidity, etc.
+  - topsoil (%, depth, ratio, whatever)
+  - lat,long, and elevation (analysis within systems?)
+  - soil moisture
+  - Field pH?
+  - 
+  - % fungal biomass
+  - % rna expression
+  
+
+
+
+Samples: how are we sampling? Is it possible to gps every sample? In theory gps samples could allow us to account for auto correlation between sample and  are we breaking sampling methods down likey Tony or different? We need to make sure that we we are doing can remain constant across forests/sampling locations.
+  - I feel like I tossed a grid idea around... what if you took 
 
 
 
