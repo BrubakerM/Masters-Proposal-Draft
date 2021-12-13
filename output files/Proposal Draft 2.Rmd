@@ -21,11 +21,12 @@ What if, as a part of my thesis or even just as a lab... why don't we aim to sta
 
 # Introduction
 *questions*: Why do we care about knowing soil fungal carbon functionality?
-- fungal communities are primary decomposers
-- fungal communities are some of the only decomposers that can break down lignin and cellulose. 
-- fungal communities are dominant in old growth forest systems
+
++ fungal communities are primary decomposers
++ fungal communities are some of the only decomposers that can break down lignin and cellulose. 
++ fungal communities are dominant in old growth forest systems
     - need support in old growth systems functionality.. are they are more productive or biodense? 
-- regardless of support or rejection of old growth forest logging we are drastically reduce a (more or less) finite resource. This resource contains *information*.
++ regardless of support or rejection of old growth forest logging we are drastically reduce a (more or less) finite resource. This resource contains *information*.
 
 
 
@@ -36,20 +37,20 @@ overall goal / message to display is that we do not know how these forest soil m
 I think the overall message or story I want to tell is that these systems are dynamic and that AGE MAY INFLUENCE FUNCTIONALITY. I retain an unbiased nature as to whether or not these older systems are more "functional" than younger systems but I can without a doubt say that we need to understand them more fully before we continue to decimate and eradicate them.
 
 #### What points will support my thoughts on this?
-  - We know that forest communities change over time
+  + We know that forest communities change over time
   
-  - We *know* that microbial community influences functionality (NEED MORE RESEARCH ON THIS)
+  + We *know* that microbial community influences functionality (NEED MORE RESEARCH ON THIS)
       - microbial communities influence soil chemistry, plant community, above-ground and below-ground biodiversity,
       - these are all dynamic attributes... each are linked and as one changes resulting changes will follow... 
       
-  - I need to have a better understanding of HOW current forest soils are being assessed... (NEED MORE RESEARCH ON THIS)
+  + I need to have a better understanding of HOW current forest soils are being assessed... (NEED MORE RESEARCH ON THIS)
   
-  - Need more information on how microbial communities change over time. 
+  + Need more information on how microbial communities change over time. 
   
-  - Need specific examples showing that we are only looking at WHO is there rather than WHAT the are doing*. 
+  + Need specific examples showing that we are only looking at WHO is there rather than WHAT the are doing*. 
       - eukaryotic transcriptomics.
       
-  - Need some information showing functionality of different forest succession stages.
+  + Need some information showing functionality of different forest succession stages.
   
   
   
@@ -79,7 +80,7 @@ Current controversy in the literature among old growth forests demands a more co
 
 __*body*__ :
 
-This study aims to determine how soil fungal communities differ among forest sucessional stages in community structure and carbon __functionality__. Emerging research suggests that increase in forest succesional stage may be associated with a number of below-ground processes(CITATIONS?). For example, it is evident that microbial community composition responds to forest successional stage development. Among this we see shifts towards a fungal dominated microbial community as forest stage develops [@Jiang_2021, ADD MORE]. A number of studies have already analyzed fungal community composition but few have looked into fungal soil functionality based on ribosomal metagenomics. There is controversy over the concept of of microbial diversity and redundancy at certain hierarchle levels. Understanding this link between microbial community composition (fungi? fungi phyla? fungi type?) and forest functionality will likely influence a number of ecosystem services. These services include but are not limited to more impactful forest management strategies and a better understanding of how ecosystems respond to a changing climate. A requirement prior to completion of this study was to be first in attempts to begin developing global soil sampling methods. Such attempts were made by connecting with x soil biologists in x different countries and establishing unanimous agreed upon soil sampling methods. (stoned ideah, maybe separate publication? Would be really cool to link with my project. )
+This study aims to determine how soil fungal communities differ among forest sucessional stages in community structure and carbon __functionality__. Emerging research suggests that increase in forest succesional stage may be associated with a number of below-ground processes(CITATIONS?). For example, it is evident that microbial community composition responds to forest successional stage development. Among this we see shifts towards a fungal dominated microbial community as forest stage develops [@Jiang_2021, ADD MORE]. A number of studies have already analyzed fungal community composition but few have looked into fungal soil functionality based on ribosomal metagenomics. There is controversy over the concept of of microbial diversity and redundancy at certain hierarchical levels. Understanding this link between microbial community composition (fungi? fungi phyla? fungi type?) and forest functionality will likely influence a number of ecosystem services. These services include but are not limited to more impactful forest management strategies and a better understanding of how ecosystems respond to a changing climate. A requirement prior to completion of this study was to be first in attempts to begin developing global soil sampling methods. Such attempts were made by connecting with x soil biologists in x different countries and establishing unanimous agreed upon soil sampling methods. (stoned idea, maybe separate publication? Would be really cool to link with my project. )
 
 
 
@@ -180,9 +181,25 @@ While controversy is ever present and results are variable potential trends may 
   #    - __fungal communitie were most correlated with ammonium N contents and root biomass__
 
 
-# Delgado_Baquerizo_2016: microbial diversity is associated with microbial biodiversity.
+# @Delgado_Baquerizo_2016: Forest multifunctionality is associated with microbial biodiversity.
   #    - Reports that soil microbial diversity positively relates to multifunctionality in terrestrial ecosystems. 
-  #    _ Our findings provide empirical evidence that any loss in microbial diversity will likely reduce multifunctionality, negatively impacting the provision of services such as climate regulation,soil     fertility and food and fibre production by terrestrial ecosystems.
+  #    _ Our findings provide empirical evidence that any loss in microbial diversity will likely reduce multifunctionality, negatively impacting the provision of services such as climate regulation,soil fertility, and food and fiber production by terrestrial ecosystems.
+
+
+
+# @Zhou_2017: trends in mcrobial community along secondary succession:
+  #   - The results showed that the fungi to bacteria ratio (fungi:bacteria) increased, while the microbial respiration per unit biomass carbon (R/Cmic)           decreased as the succession proceeds. 
+  #   - Secondary succession had the rising trends in microbial biomass carbon to soil carbon ratio (Cmic/Csoil) and microbial biomass nitrogen to soil nitrogen   ratio (Nmic/Nsoil).
+  #   - Early successional stages tended to be dominated by r-strategists (bacteria) that had higher R/Cmic and lower Cmic/Csoil and Nmic/Nsoil, whereas late     successional stages tended to be dominated by K-strategists (fungi) that behaved oppositely. ***** 
+  #   - The soil C to N ratio (C:Nsoil) increased significantly with the successional stage, with a fast increasing C:Nsoil ratio being accompanied by a fast      increase of fungi:bacteria, a slow decrease of R/Cmic, and a slow increase of Cmic/Csoil. This
+
+
+
+# @Bowd_2021: Distrubance alters microbial community:
+  #   - Indicates that disturbance negatively impacted microbial diversity. (different disturbance different impact)
+  #   - Soil pH, manganese, magnesium, phosphorus, iron and nitrate were associated with the composition of all microbial communities.
+  #   - Some specific info on types of fungi found in different areas of soil. 
+
 
 ```
 
