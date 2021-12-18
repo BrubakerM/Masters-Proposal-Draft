@@ -1,0 +1,13 @@
+---
+title: "rando"
+author: "Max Brubaker"
+date: "12/16/2021"
+output: pdf_document
+bibliography: Proposal Draft Bib.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Paragraph 3
+__*intro sentence*__ :Understanding how shifts in microbial community impact ecosystem functionality with forest succession, and how the resulting soil characteristics respond, can greatly improve our ability to infer how ecosystems are influenced by environmental change. The findings of @Delgado_Baquerizo_2016 suggest ecosystem functionality is dependent on specific microbial diversity and that any shift in said diversity is likely to change the functionality and resulting ecosystem previsions/services. It is apparent that as forest systems transition into later successional stages, we see a major change in microbial ecosystem diversity (@Yan_2020 and @Zhou_2017). These, among other studies (@Sun_2021 and @Zhou_2017b), show that as forests age we see a shift from a r-dominated (bacteria) microbial community strategy to a K-dominated strategy (fungi). This is important because not only it shows us that as forests age we shift into a fungal dominated soil ecosystem but it also suggests that fungi are associated with forest ecosystem stability. Furthermore, it has been shown (@Jiang_2021) that the relative abundance of certain fungal communities significantly increase with succession. Conversely, in this study, it was noted that bacterial groups remained relatively unchanged. This suggests that fungi may become more involved in nutrient cycling as forest ages increase, or that bacteria are able to maintain functionality in different soil and environmental conditions. Understanding what organisms are present in soil systems is extremely important and there is a substantial amount of research present in the literature eluding to how microbial community composition changes among kingdoms (bacteria, fungi, etc). Digging deeper, a majority of fungal community analysis revolves around genomic sequencing in search of the presence or absence within specific hierarchical classifications (i.e. phylum, class, genus, etc). This however leaves us with massive oversight as to how these changes in community impact the corresponding ecosystem functionality. 
