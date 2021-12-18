@@ -11,7 +11,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This is a document in which I can try to develop my story as I move forward. It will also serve to help me stay on track and make sure my thoughts are clear and concise.
 
-__The main gap__ that I am trying to fill is the idea that we do not fully understand how these different forest life stages differ in terms of their functionality. We have determined how microbial communities differ in different biomes and forests as age goes on but we don't have a measurement of how that change in community changes how the forest functions. 
+__The main gap__ that I am trying to fill is the idea that we do not fully understand how these different forest life stages differ in terms of their functionality. We continue to analyze how microbial communities differ in different biomes and forests as age goes on but we don't have a measurement of how that change in community changes how the forest functions. 
     + maybe it doesnt? Maybe function remains but that would indicate that the community like changed to allow certain microbes to be dominant and thrive in new conditions. 
     + We know that forests change in terms of soil properties, vegitation diversity, and to some extent ecosystem function as they age ~ but for some reason we seem to just assume that all of these different successional stages function the same. 
       - if this is the case, fine, then we need to understand how these new micriobial communities are able to maintain function while so many other parameters are changing. 
