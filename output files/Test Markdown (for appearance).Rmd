@@ -1,13 +1,62 @@
 ---
-title: "rando"
+title: "Test"
 author: "Max Brubaker"
 date: "12/16/2021"
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
 bibliography: Proposal Draft Bib.bib
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# Paragraph 3
-__*intro sentence*__ :Understanding how shifts in microbial community impact ecosystem functionality with forest succession, and how the resulting soil characteristics respond, can greatly improve our ability to infer how ecosystems are influenced by environmental change. The findings of @Delgado_Baquerizo_2016 suggest ecosystem functionality is dependent on specific microbial diversity and that any shift in said diversity is likely to change the functionality and resulting ecosystem previsions/services. It is apparent that as forest systems transition into later successional stages, we see a major change in microbial ecosystem diversity (@Yan_2020 and @Zhou_2017). These, among other studies (@Sun_2021 and @Zhou_2017b), show that as forests age we see a shift from a r-dominated (bacteria) microbial community strategy to a K-dominated strategy (fungi). This is important because not only it shows us that as forests age we shift into a fungal dominated soil ecosystem but it also suggests that fungi are associated with forest ecosystem stability. Furthermore, it has been shown (@Jiang_2021) that the relative abundance of certain fungal communities significantly increase with succession. Conversely, in this study, it was noted that bacterial groups remained relatively unchanged. This suggests that fungi may become more involved in nutrient cycling as forest ages increase, or that bacteria are able to maintain functionality in different soil and environmental conditions. Understanding what organisms are present in soil systems is extremely important and there is a substantial amount of research present in the literature eluding to how microbial community composition changes among kingdoms (bacteria, fungi, etc). Digging deeper, a majority of fungal community analysis revolves around genomic sequencing in search of the presence or absence within specific hierarchical classifications (i.e. phylum, class, genus, etc). This however leaves us with massive oversight as to how these changes in community impact the corresponding ecosystem functionality. 
+# Introduction Paragraph:
+
+Current unknowns and controversies in the literature among old growth forests demand a more collective understanding of the fate and function of these systems. A recent example of such controversy is shown (@Luyssaert_2008, @Gundersen_2021, and @Luyssaert_2021) in the debate over the functionality of old growth systems in terms of their carbon sequestration capabilities. We believe that the misrepresentation of the below ground community is a significant contributor to not only contrasting findings such as these, but also to the lack clarity in soil science and ecosystem functionality as a whole. This study aims to determine how soil fungal communities differ among forest sucessional stages (SS's) in community structure and carbon functionality. Emerging research suggests that increase in forest SS may be associated with a number of below-ground processes. For example, it is evident that microbial community composition responds to forest SS development. As forest age increases we see a shift from a r-strategic dominated community (variable environment dominated by bacteria) to a k-strategic dominated community ("stable" environment dominated by fungi)  [@Sun_2021, @Yan_2020, @McGee_2019, @Zhou_2017, and @Zhou_2017b]. Additionaly, this increase in SS has been accompanied by an increase in microbial biomass (@Zhong_2018 and @Yan_2020). Contrarily, we see reductions in both microbial biomass and diversity when forests are reverted to *stand initiation* stages (@Rodriguez_Ramos_2020, @Zhong_2018), with variation depending on disturbance type. It is clear in the literature that both physical and chemical disturbance can lead to substantial changes in the microbial community. Fungi have been chosen as our model organism to analyze soil microbial community and functionality. A number of studies have analyzed fungal community composition in search of "who is there", but far less have looked into soil functionality through fungal community analysis in terms of "what are they doing". There is evidence suggesting a positive correlation between soil microbial diversity and soil ecosystem functionality [@Delgado_Baquerizo_2016]. Understanding the link between microbial community composition and forest functionality is crucial for future forest management and preservation. It will be a part of this project to test the ability of different genomic community analysis methods to provide information regarding a soil microbial community. We are aware that a experiment such as this could easily take up the entirety of a Ph.D. and that environmental sample are notoriously difficult to accurately measure in terms of genomics. We will analyze inoculated soils with known microbial communities and test the ability of certain methods (whole genome sequencing, metagenomics, and metatranscriptomics) to provide accurate representations of said community. The results from this experiment will dictate our future community analysis methods. We hope that this project will provide insight towards whether or not old growth forests are functionally different from managed systems as an understanding such as this may shape future forest ecosystem analysis and the resulting management practices. 
+
+
+
+
+# Parabraph 2: 
+
+Next I am considering a brief paragraph discussing fungi and their role in soils/forest systems.
+
+
+# Paragraph 3: 
+
+Understanding how shifts in microbial community impact ecosystem functionality with forest succession, and how the resulting soil characteristics respond, can greatly improve our ability to infer how ecosystems are influenced by environmental change. The findings of @Delgado_Baquerizo_2016 suggest ecosystem functionality is dependent on specific microbial diversity and that a shift in said diversity is likely to change the functionality and resulting ecosystem previsions/services. It is apparent that as forest systems transition into later successional stages, we see a major change in microbial ecosystem diversity (@Yan_2020 and @Zhou_2017). These, among other studies (@Sun_2021 and @Zhou_2017b), show that as forests age we see a shift from an r-dominated to a K-dominated microbial community. This is important as it not only shows that as forests age we shift into a fungal dominated soil ecosystem, but it also suggests that fungi are associated with forest ecosystem "stability" (see r/k-strategists for details). Furthermore, we see (@Jiang_2021) that the relative abundance of certain fungal communities significantly increase with succession. Conversely, it has been shown that bacterial groups decline or remain relatively unchanged along successional gradients (@Zhou_2017b, @Yan_2020). This suggests that fungi may become more involved in nutrient cycling as forest ages increase, or that bacteria are able to maintain functionality in different soil and environmental conditions. Understanding which organisms are present in soil systems is extremely important and there is a substantial amount of research present in the literature eluding to how microbial community composition changes among kingdoms (bacteria, fungi, etc) as forest age. Digging deeper, a majority of fungal community analysis revolves around genomic sequencing in search of the presence or absence within specific hierarchical classifications (i.e. phylum, class, genus, etc). However, this leaves us with massive oversight as to how these changes in community impact the corresponding ecosystem functionality.  
+
+
+
+
+I could then transition into dicussion about microbial (fungal genomics) or maybe move into this paragraph:
+
+# Paragraph 4:
+
+Understanding how functionality and microbial community change over time is crucial however, natural undisturbed succession is becoming increasingly rare by the day. Ecosystem disturbance is happening more frequently via both natural (extreme weather) and anthropogenic (logging/management) means.
+    + info on how disturbance influences microbial community
+    + type of disturbance may impact how the microbial community changes
+    + more
+    
+    
+# Paragraph 5: 
+
+Maybe talk about parameters that have been shown to change as successional stages increase?
+
+
+# Paragraph 6:
+
+The last paragraph could touch on the lack of clarity in old growth analysis and how current decisions, controversies, etc do not even consider belowground community impact and that forest functionality may change with age/lack of disturbance?
+
+
+
+
+
+
+
+
+
+
+
+
