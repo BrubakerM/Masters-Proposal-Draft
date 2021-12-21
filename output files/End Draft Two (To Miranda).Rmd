@@ -11,9 +11,51 @@ bibliography: Proposal Draft Bib.bib
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# Introduction Paragraph:
+# Introduction Paragraph: (research objective)
+
 
 Current unknowns and controversies regarding old growth forests demands a more collective understanding of the function and fate of these systems. A recent example of such controversy is shown (@Luyssaert_2008, @Gundersen_2021, and @Luyssaert_2021) in the debate over the functionality of old growth systems in terms of their carbon sequestration capabilities. We believe that the misrepresentation of the below ground community is a significant contributor to not only contrasting findings such as these, but also to the lack of clarity in soil science and ecosystem functionality as a whole. This study aims to determine how soil fungal communities differ among forest sucessional stages (SS’s) in community structure and carbon functionality. Emerging research suggests that increase in forest SS may be associated with a number of below-ground processes. For example, it is evident that microbial community composition responds to forest SS development. As forest age increases, we see a shift from predominately r-strategic community (variable environment dominated by bacteria) to a community dominated by k-strategists (“stable” environment dominated by fungi [@Sun_2021, @Yan_2020, @McGee_2019, @Zhou_2017, and @Zhou_2017b]. Additionaly, increase in SS has been accompanied by an increase in microbial biomass (@Zhong_2018 and @Yan_2020). Contrarily, we see reductions in both microbial biomass and diversity when forests are reverted to stand initiation stages (@Rodriguez_Ramos_2020 and @Zhong_2018), with variation depending on disturbance type. It is clear in the literature that both physical and chemical disturbance can lead to substantial changes in the microbial community. Fungi have been chosen as our model organism to analyze soil microbial community and functionality. A number of studies have analyzed fungal community composition in search of “who is there” (metagenomics and whole genomic sequencing) but far less have looked into soil functionality through fungal community analysis in terms of “what are they doing” (metatranscriptomics and gene regulation). However, there is evidence suggesting a positive correlation between soil microbial diversity and soil ecosystem functionality (@Delgado_Baquerizo_2016). Understanding the link between soil conditions, microbial community composition, and forest functionality, is crucial for future forest management and preservation. An objective of this project is to test the ability of different genomic community analysis methods to provide information regarding a soil microbial community. We are aware that a experiment such as this could easily take up the entirety of a Ph.D. and that environmental sample are notoriously difficult to accurately measure in terms of genomics. We will maintain simplicity and analyze inoculated soils with known microbial communities to test the ability of certain methods (whole genome sequencing, metagenomics, and metatranscriptomics) in providing accurate representations of said community. The results from this experiment will dictate our future community analysis methods. This project will analyze forest systems in attempts to determine how successional stage is related to fungal community composition and how the resulting composition impacts the soil carbon functionality. We hope that this may provide new insights to forest functionality and new considerations when weighing ecosystem services
+
+
+
+
+# Update 12/20/21:
+
+Lets just put the idea of this thesis into a paragraph and work from there:
+
+
+The goal of my thesis, as it currently stands, is to "get at" soil functionality in terms of soil age. So...does the functionality of soils change with the lack of disturbance? To do this, we decided to look at forest systems as they are some of the few systems that are still allowed to age and develop into these old growth stages. We then decided to measure soil functionality based on fungi because we want to analyze these soil systems in terms of carbon, and fungi are our stewards of soil carbon mechanism. So soils in forests, their fungal community composition, and the corresponding carbon functionality. Obviously this will be parred with as many physiological parameters as we can imagine that are useful for this. 
+
+So the gap we are aiming to fill is __"Are there distinct soil functional differences based on carbon mechanisms provided by fungal community succession"__. And if so, are there specific communities common among old soils that allow for such functional differences.
+  + Why is this important? 
+    ++ For one I am hoping that this will provide reason for us to stop decimating Old Growth Systems... maybe if the people think that we can benefit from these organisms found in old systems we will preserve them and try to understand them better. 
+    ++ If we find that these soils/communities are functionally different then it provokes so much further research.
+        +++ It would demand us to not only look into the specifics of the fungal communities that are functionally different but it also would demand other researchers to look into other microbial communities from this approach.
+        +++ If these communities offer functional differences we can figure out why, and start exploring using NATURAL fungal communities to improve soil carbon dynamics in areas that are barren. These OGF could litteraly act as a bank of natural responses to environmental conditions. 
+        
+        
+So how will we accomplish this? The project will be broken into four main portions with the last portion being dependent on results from the first three.
+
+### Part 1: Genomic expirement "forced fungal succession"
+This experiment will serve as our way of verifying/testing the avaliable techniques for soil fungal community analysis. This is a microcosm proof of concept experiment that will allow us to determine the validity of analyzing a fungal community through three different methods
+  + Amplicon sequencing: (18S primers in search of who is there in the fungal community)
+  + Whole genome sequencing: (Shotgun for ALL genes present in the sample)
+  + Whole transcriptome sequencing (WHAT genes are actively transcribed ~ active in the community)
+  
+We will test the ability of these methods analyze 9 fungal species (separated by early, middle, and late succession saprobes) over three different experiments. The goal of these experiments is to determine under what conditions are these analysis limited or what conditions are they successful. The result of these three experiments will determine which analytical method is used for genomic sequencing in this project. 
+T1 will be an test of carbon substrate manipulation to see if the type of carbon source influences the three methods' ability to analyze who is there, what genes are there, and what genes are active. The idea here is that with different carbon sources (glucose, x, and lignin), we should see different gene expression, but the community composition and total gene profile should remain the same. T2 will test the influence of soil type and T3 will test the influence of microbial interference in attempts to simulate levels of environmental samples.
+
+
+
+### Part 2: Feild expirement (sampling)
+The second part of this thesis will involve field sampling. Here we will obtain soil samples for genomic sequencing as well as any and all physiological parameters that may influence fungal community and carbon functionality. Experimental design will simulate that of (@Trofymow...) where a chronosquence has been established and sampled since 1987. These chronosequence sites will serve as our first two old growth forests for soil analysis. 
+
+
+
+### Part 3: Common garden expirement "greenhouse"
+The final part of our experiment will take place shortly after field sampling is conducted. The purpose is to compare carbon functionality of soils from different successional stages in each forest. Soils will be tested for enzymatic production, respiration rates (flux), and fractionation of carbon pools. This will add to our knowledge of how soils from different SS differ in terms of functionality, if they do at all.
+
+
 
 
 

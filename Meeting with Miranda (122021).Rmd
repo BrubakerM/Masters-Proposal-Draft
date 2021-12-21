@@ -1,0 +1,124 @@
+---
+title: "Expiremental Design + Random Notes"
+author: "Max Brubaker"
+date: "12/20/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Genomics Expiremental Design: (microcosm proof of concept) : this will tell us how we can determine different fungal communities in terms of who is there and what they are doing. 
+8-12 months, establishing model system
+  + amplicon sequencing (18S primers for who is there)
+  + whole genome sequencing (shotgun for all genese that are there)
+  + whole transcript sequencing (what genes are being transcribed)
+
+
+Lets say we have 3 species of fungi and put them on glucose, and then put them on woodchips we would expect a much differnt transcriptome. Species there would be the same, whole genome would probbaly be the same, but active genes would be different. 
+
+
+Artificial community (number of spores/species standardized)
+  + fungi in agar
+  + soil no fungi
+  + soil with inoculated fungi
+  
+We need to have different types of soils to see if the same community will function differently in response to different *spikes*. 
+- glucose, cellulose, lignin. 
+
+Basically forced fungal succession through exposing it to different carbon substrates.
+
+__First trial__: Carbon substrate manipulation:
+How many fungi, what substartes, what replication, growth time/conditions.
+- old fungal succession literature (1970-1980s)
+- find 5-10 fungal organsism that are both early, mid, and late succession fungi (3 of each)
+- how many substrates: Glucose, x, and lignin
+
+__Second Trial__: soil type manipulation
+
+
+__Third Trial__: Microbial interference (diversity levels)
+  + artificial soil: 0 background through 100% background (0, 15, 50, 85, and 100)
+  + different dilutions of fungal inoculum
+
+
+  
+
+  
+
+
+# Common Garden Expirements:
+We would have to run these manipulative studies as soon as we get back.
+  + enzymatic analysis
+  + carbon labeling: respiration rates (flux), fractination of carbon pools (living, dead, inorganic)
+  + very time sensetive
+  + 
+
+# Field work Expiremental Design:
+Still planning to sample this summer, but not analyzing
+  
+  
+
+
+
+
+# General Notes:
+  
+  
+  
+its old __soils__ and the reasons we are using forests is because these systems are some of the only ones that remain unchanged
+you cant look at all communities, fungi are the biggest contributors towards carbon functionality. 
+  + understanding how carbon is stored and cycled is so important. 
+
+The novelty of our approach is composition and functioning
+  + what if soils harbor specific K-strategists (the seqioas of the underground)
+  + is it the organisms specifically that allow for increased carbon processing
+  + Is there a specific group of fungi
+  
+We could end up not looking at only one old growth forest system, diving deep into this (mechanistic)
+
+
+OR
+
+We could end up perfecting old soil fungal analysis writing this as a survery (pervasiveness) ***
+
+
+
+
+
+
+
+
+QUESTIONS: 
+relative contributions towards carbon cycling ~ are they more influneced by saprobes or endophytes?
+  + how do endophytes effect C cycling vs how saprobes influence.
+
+
+
+Quotes from Miranda:
+
+I see myself as your advisor not your SUPERVISOR. 
+  + its my project, im driving it, i am responsible for it
+  
+  
+  
+FORWARD STEPS: 
+- email Melony, Dan, and Louise Nelson: Im a new PhD, need to order some saporbrobic fungi any advice? Cultures? 
+- highest quality DNA humanly possible. Fast, maticulus, but careful. You must verify the quality of DNA or RNA before sending it.
+  + calibrate pipettes
+
+- review of fungal transcriptomics (1st of July they want a draft on the chapter of soil encyclopidia)
+  + metabalome, whole genome, transcriptome
+  + must include bacteria in this
+  + why so slow in soil eukaryotes? Review of the histroy, why is it harder
+
+
+Question 1: can we use this technique on soil fungal communities (first exp)
+         2: Applying this technique in the feild
+            a: transcriptome
+            b: physiological
+         3: Is this occuring in many systems
+         
+         
+         
+
