@@ -1,0 +1,83 @@
+---
+title: "Proposal Outline"
+author: "Max Brubaker"
+date: "12/22/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+What we are interested in, what are we trying to find out...
+
+  + we are trying to see if microbial community influences soil functionality in regards to carbon dynamics (which we know to be true ),      what we want to see is what communities are responsible for what functionality and if this is associated wth disturbance patterns
+      ++ what do we know about this so far?
+  + along with this we are looking for 
+      
+  + our project aims to show that as soils age, and microbial communities shift, we see a resulting change in soil carbon functionality
+  
+  
+#NOTE: Each paragraph needs an opening sentence that describes the topic, 2-4 supporting sentences, and a concluding sentence.  One idea per paragraph. That’s it.  Full stop. One idea.
+
+What this paper brings to the table is that its looking 
+  + my current findings in the literature suggest that most studies analyzing the impact of disturbance on soil functionality has at most looked through the lense of shotgun sequencing... and even then.... did it aim to see if different SS are functionally different?
+
+
+
+Skelton of paper:
+
+__*Overall message*__: This paper aims to look directly at the impacts of different levels of disturbance (succession stages) on soil physiology, microbial community and the resulting carbon functionality.
+
+__Supporting Paragraphs__: I am not entirely sure the best way to order these, but this is the general supporting information I am thinking.
+
+1. Discussion on recent advances in microbial community analysis including limitations for eukaryotes vs prokaryotes (1-3 paragraphs?)
+2. A brief discussion on the importance of soils in carbon ecosystem functionality (maybe this is assumed knowledege) (1-2 paragraphs)
+3. Discussion pertaining to the idea that specific microbes can be associated with specific ecosystem processes? (Fierer 2013) (1 Paragraph)
+4. Discussion on the involvement of fungi in soil systems and carbon functionality (1-3 paragraphs)
+5. Discussion of disturbance impact on soil systems and microbial communities (1-3 parahraphs)
+6. Wrap everything into old growth forests, why this is a good study system, why it is important, etc. (1-3 paragraphs)
+
+Since the turn of the twenty-first century, advances in soil microbial analysis have allowed researchers to begin understanding microbial community composition and thier influence in soil functionality (Fierer 2013, Cedar N. Hesse_2015, Lucia Žifcˇáková_2016, Vojtech_2021, and many more ). With progress in high-throughput sequencing methods (amplicon sequencing, metagenomics, and metatranscriptomics) we now have the capability to anlyze what mircobes are present in the soil community with the intention of determining what they are doing, and how they are contributing towards specific soil functions (Knight_2018, Quince_2017, and many more ). Using sequencing methods mentioned above, scientists have been able to determine which taxa are involved in specific processes, such as decomposition of dead wood, inlcuding the percentage of involvement of specific phyla (Vojtech_2021). Additionally, certain studies have been able determine which taxa are more involved (transcription rates) in specific processes within different layers of soil (lucia_2016). Continuation and advancement of studies such as these are pertenent as they can allow us to determine what microbial communities are invovled in specific ecosystem functions and how they are able to do so. This would drastically improve our ability to manage/preserve soils systems by providing insight as to how natural commmunities respond to ecosystem threats such as disturbance and climate change. 
+ 
+
+
+
+# Disturbance:
+
+With the advances in forest management, farming, and climate change, soil ecosystems are increasingly subjected to disturbance. Both natural and anthropogenic disturbance have been shown to significantly alter soil in terms of microbial community composition and soil characteristics (porosity, % OM, SOC, etc). The gap this research aims to fill is the insight as to how disturbance alters soil microbial community, and whether or not there is a resulting change in carbon functionality.
+
+
+#Carbon:
+We have long known that soils play a vital role in ecosystem carbon dyanmics (CITATION) accounting for the sequestration of (???) of carbon with evidence that soil mircobes play a significant part. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# SKELETON:
+It is my belief this paper/project is to show the impact of soil disturbance (or lack of) on microbial community composition and the resulting change in soil carbon functionality
+    + Disturbances have been shown to impact soil carbon through x,y,z
+    + Disturbances have been shown to impact soil microbial community through x,y,z
+    + Old growth forest chronosequences are a great way to look at this due to the current removal of portions of OGF. This removal (over time) provides us with a template (chronosequence) to look at the impact of disturbance on soil microbial community and the resulting carbon functionality
+    
+    
+

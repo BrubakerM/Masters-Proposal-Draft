@@ -1,0 +1,57 @@
+---
+title: "Genomics Analysis (lit review)"
+author: "Max Brubaker"
+date: "12/21/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# NOTE: This document is a start to my microbial genomics literature review. The goal for this review (from what I understand so far) is to express what has been done in terms of fungal (eukaryotic) genomics and how this compares to prokayotic genomics
+
+### Main Points:
+  + What is the general analysis when conducting fungal genomics
+  + What has been found in amplicon sequencing
+  + What has been found in whole genome sequencing
+  + What has been found in whole transcriptome sequencing
+  + Limitations / how does this compare to prokaryotes
+  
+  
+
+
+```{r}
+# @Knight_2018: Nature reivews ~ Best practices for analysing microbiomes
+#     - discusses the pros and cons, considerations and concerns for different microbial genomic analysis
+#     - "Gene Marker Analysis" (which I believe to be the same as amplicon sequencing) is said to be the least informative, as its really         just looking for presence absence. It is fast and cost effecient but there are also many limitations as DNA sequences vary in             primer-amplified regions and primers do not have equal affinity for all possible DNA sequences. This can consequently induce bias         during PCR amplification. Other sources of inherent bias in marker gene sequencing include variable region selection,amplicon size         and the number of PCR cycles. Additionaly low biomass samples are particularly susceptible to bias introduced by overamplification         as the PCR cycle number increases, contaminating microorganisms are increasingly over represented.
+#     - "Metagenomics" is the method of sequencing all microbial genomes within a sample. yields more detailed genomic information and            taxonomic resolution than marker gene sequencing alone, but it is relatively expensive to prepare, sequence and analyse the               samples. This method captures all DNA present in the sample, including viral and eukaryotic DNA. Given adequate sequencing depth          (the number of sequencing reads per sample), taxonomic resolution to species or strain level and the assembly of whole microbial          genomes from short DNA sequence reads are possible..s. However,biases that are introduced by library construction,assembly and            reference databases for annotation are less understood.
+#     - "Metatranscriptomics uses RNA sequencing to profile transcription in microbiomes, providing information on gene expression and the         active functional output of the microbiome. Metatranscriptomics differs from both marker gene and metagenomic sequencing that             sequence DNA in a sample regardless of cell viability or activity. Though it is biased towards organisms with higher rates of             transcription. It is worth noting that propidium monoazide (PMA) depletion of relic DNA is an alternative method to identify live         microorganisms. Host RNA contamination,particularly from the highly abundant rRNAs, is also an important consideration, and               methods to exclude rRNAs from samples should be considered48. RNA must be carefully preserved to avoid degradation in all cases,          though certain sample types may warrant specialized protocols for RNA purification. For example, soil samples require removal of          enzyme inhibiting humic substances49,50.
+
+
+
+#Q : What did they find and what methods did they use?
+
+#@Lucia Žifcˇáková: Microbial activity in forest soil....
+#     - SUMMARY: Metatranscriptomics, microbial community and enzyme analyses were combined to describe the detailed role of microbial            taxa in the functioning of the Picea abies-dominated coniferous forest soil in two contrasting seasons. 
+#     - microbial communities were characterized by a high activity of fungi especially in litter microbial transcription was over 50%            fungal.
+#     - Amplicon sequencing  (DNA and RNA) appears to be the method used here to describe microbial community. With this methd they               describe:
+#         1. ~4K fungal OTUs, with best hits to 424 genera.
+#         2. The species richness (132–175, DNR:RNA), the biodiversity (Shannon index) and the evenness (0.68–0.70)
+#         3. Dominant phylum in both litter and soil "zones" as well as % of sequencines belonging to which phyla
+#         4. # of OTUs that had  preferential localization in one horizon (can they say which horizon?)
+#         5. Bray–Curtis similarity values of community composition
+#         6. The difference in activity of bacterial and fungal genera between summer and winter were analysed by comparing the abundance #            ratios of RNA/DNA
+#      - Metatranscriptomes were also obtained from the study site, providing broader insights for comparisons of expressed functions              between horizons and seasons:
+#         1. % of annotated contigs id as microbial (fungal, bacterial, archeal)
+#         2. % of trascription contributed by taxa in specific horizons. (Litter: 70% fungal, Soil 25% fungal)
+#         3. The fraction of reads with functional classification associated with bacteria was high (72%) compared with those of archaea #              (26%) and fungi (only 19%).
+#         4. Able to associate which taxa were most dominant in what processes. Bacteria: metabolism of terpenoids, Fungi: glycan                      biosynthesis and metabolism of lipids. There is a caviat to this, see notes in paper
+#         5. Could compare the amount of functional KEGG categories associated with both soil in litter. Keep note of this
+#         6
+
+```
+
+
+
+

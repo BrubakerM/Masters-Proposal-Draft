@@ -1,0 +1,12 @@
+---
+title: "Soil microbial (carbon) functionality and disturbance"
+author: "Max Brubaker"
+date: "12/22/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Need to fill this in with soil microbial (carbon) functionality and disturbance:
