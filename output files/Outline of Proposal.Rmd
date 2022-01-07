@@ -2,82 +2,295 @@
 title: "Proposal Outline"
 author: "Max Brubaker"
 date: "12/22/2021"
-output: html_document
+output:
+  word_document: default
+  html_document: default
+UPDATED: 12/23/21
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-What we are interested in, what are we trying to find out...
-
-  + we are trying to see if microbial community influences soil functionality in regards to carbon dynamics (which we know to be true ),      what we want to see is what communities are responsible for what functionality and if this is associated wth disturbance patterns
-      ++ what do we know about this so far?
-  + along with this we are looking for 
-      
-  + our project aims to show that as soils age, and microbial communities shift, we see a resulting change in soil carbon functionality
-  
-  
-#NOTE: Each paragraph needs an opening sentence that describes the topic, 2-4 supporting sentences, and a concluding sentence.  One idea per paragraph. That’s it.  Full stop. One idea.
-
-What this paper brings to the table is that its looking 
-  + my current findings in the literature suggest that most studies analyzing the impact of disturbance on soil functionality has at most looked through the lense of shotgun sequencing... and even then.... did it aim to see if different SS are functionally different?
-
-
-
 Skelton of paper:
 
-__*Overall message*__: This paper aims to look directly at the impacts of different levels of disturbance (succession stages) on soil physiology, microbial community and the resulting carbon functionality.
+Overall message: We want to know if late successional stage soils are functionally different from early systems (carbon), and if these late systems harbor unique/key player organisms. 
 
-__Supporting Paragraphs__: I am not entirely sure the best way to order these, but this is the general supporting information I am thinking.
+The whole goal of the paper is to convince your readers that late successional fungi may be very different from early successional spp in terms of how they interact with the carbon cycle.
 
-1. Discussion on recent advances in microbial community analysis including limitations for eukaryotes vs prokaryotes (1-3 paragraphs?)
-2. A brief discussion on the importance of soils in carbon ecosystem functionality (maybe this is assumed knowledege) (1-2 paragraphs)
-3. Discussion pertaining to the idea that specific microbes can be associated with specific ecosystem processes? (Fierer 2013) (1 Paragraph)
-4. Discussion on the involvement of fungi in soil systems and carbon functionality (1-3 paragraphs)
-5. Discussion of disturbance impact on soil systems and microbial communities (1-3 parahraphs)
-6. Wrap everything into old growth forests, why this is a good study system, why it is important, etc. (1-3 paragraphs)
-
-Since the turn of the twenty-first century, advances in soil microbial analysis have allowed researchers to begin understanding microbial community composition and thier influence in soil functionality (Fierer 2013, Cedar N. Hesse_2015, Lucia Žifcˇáková_2016, Vojtech_2021, and many more ). With progress in high-throughput sequencing methods (amplicon sequencing, metagenomics, and metatranscriptomics) we now have the capability to anlyze what mircobes are present in the soil community with the intention of determining what they are doing, and how they are contributing towards specific soil functions (Knight_2018, Quince_2017, and many more ). Using sequencing methods mentioned above, scientists have been able to determine which taxa are involved in specific processes, such as decomposition of dead wood, inlcuding the percentage of involvement of specific phyla (Vojtech_2021). Additionally, certain studies have been able determine which taxa are more involved (transcription rates) in specific processes within different layers of soil (lucia_2016). Continuation and advancement of studies such as these are pertenent as they can allow us to determine what microbial communities are invovled in specific ecosystem functions and how they are able to do so. This would drastically improve our ability to manage/preserve soils systems by providing insight as to how natural commmunities respond to ecosystem threats such as disturbance and climate change. 
- 
+What do we know:
+  + We know soil parameters change with age/succession
+  + We have some information regarding how soils change with succession - broadly speaking - (i.e. increase in litter fall, as forests age, provide x,y,z to     the soils, and in turn influence the soil community to a certain extent)
+  + We know that as soils change/age, microbial community shifts (i.e. shift from r  to K-strategists or from bacteria to fungi)
+  + We know that soil microbial community composition influences soil functionality (i.e. more saprobes usually means higher decomposition rates, white rot      is associated with higher lignin decomposition, etc.)
+  + We know that fungi are highly involved with carbon dynamics (sources- @Clemmensen_2013*/2014, Burke_2011, MORE)
 
 
 
-# Disturbance:
-
-With the advances in forest management, farming, and climate change, soil ecosystems are increasingly subjected to disturbance. Both natural and anthropogenic disturbance have been shown to significantly alter soil in terms of microbial community composition and soil characteristics (porosity, % OM, SOC, etc). The gap this research aims to fill is the insight as to how disturbance alters soil microbial community, and whether or not there is a resulting change in carbon functionality.
-
-
-#Carbon:
-We have long known that soils play a vital role in ecosystem carbon dyanmics (CITATION) accounting for the sequestration of (???) of carbon with evidence that soil mircobes play a significant part. 
-
+What DONT we know:
+  + We don't know the "fate" of the parameters when soils reach "old" state. (i.e. "what does an old soil look like" in terms of parameters) <-- varies
+  + We have some evidence but no standard understanding as to how specific soil parameters change over time and if this is "universal" among similar systems
+  + We do not have much of a grasp on how specific fungal communities shift over time (could probably do a review paper on this alone...)
+  + We do not know how soil microbial community is related to soil functionality (i.e. how are the group of microbes influencing the functionality) 
+  + We do not know how specific groups of fungi influence specific carbon dynamics (i.e. does an increase in a specific Agaricon species increase carbon         enzyme activity)
+    ++ additionally, we do not know how fungi (or any microbe) contribute to carbon (or any nutrient) dynamics as soils age. 
+    ++ We seem to have very little understanding as to how fungi contribute towards carbon use in old growth forests!
+  
 
 
 
 
+what do we need to know to answer this question?
+- What do we know about fungal communities and their "trends" in succession
+- Are there common occurrences of fungal communities as succession progresses
+  + we are more likely to see some level community occurance at the old growth/late succession, as this system is dominated by "stable" K-strategists, while early succession is dominated by shifting environmental conditions and fast-reproducing r-strategists.
+- are soils functionally different depending on their age/stage?
+- how will we determine carbon functionality?
+- 
+
+
+- We also need to know if we can assess fungal community functionality? What level of genomics is achievable in soil samples? How shuld we be looking at fungal communities in terms of genomic analysis?
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Supporting Paragraphs: I am not entirely sure the best way to order these, but this is the general supporting information I am thinking.
+
+1.	__What do we know about late successional soil communiites?__ Has anyone asked this question yet? Do we know something about bacteria? Fungi? Protists? Animals? I know we know a lot about chemistry of old soils… __what do we know about biota__?
+
+
+**The whole point of a paper, a project, an experiment is:
+1)	What is the gap in our knowledge? Are old soils functionally different and do they harbor unique organisms.
+
+  + we know that animals, plants, microgoranisms, and soil properties all change with succession but there are few trends established among these categories.     For instance we know x, y, z. However, many of these ideas are unsupported or even disputed...ex?
+  
+  + With the new age of high-throughput sequencing and eukaya metagenomics (trans) we are now able to determine who is there, and even what they are doing. 
+  + Our gap stems from here, how does the microbial community change with succession, and what is the resulting carbon functionality in the soils. It is our aim to determine if old soils harbor unique community structure/composition and if there is a associated functionality. Analyzing old soils for unique species or function will allow us to preserve a depleating community and use the relationship between community and function to imrpove preservation and soil management.
+  
+2)	What do we need to know to fill this gap?
+  + what are the limitations of eukaryotic genome analysis in deteremining soil microbial community and function?
+  + how do soil microbial communities differ from old to young?
+  + how does soil *(carbon)* functionality differ from old to young forests?
+    + how will we measure soil carbon functionality? ***
+3)	How will filling this gap be useful to the world/society/science?
+  + we need to be sure that we are aware of the diversity and associated functionality of these systems before they are loss forever...
+      + it has already been shown that systems do not return to their original state even after (x) years of undisturbed regeneration.
 
 
 
+***So for your paper:
+1)	We know very little about long term succession in soil communiites 
+  a.	What is succession? How are old communities (in genereal) diff ?
+```{r}
+#WHAT IS SUCCESSION: this is a big question and needs to be clearly stated..succession seems to be described as how the structure of a biological community changes over time. Can succession be thought of as the lack of disturbance?
+```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# SKELETON:
-It is my belief this paper/project is to show the impact of soil disturbance (or lack of) on microbial community composition and the resulting change in soil carbon functionality
-    + Disturbances have been shown to impact soil carbon through x,y,z
-    + Disturbances have been shown to impact soil microbial community through x,y,z
-    + Old growth forest chronosequences are a great way to look at this due to the current removal of portions of OGF. This removal (over time) provides us with a template (chronosequence) to look at the impact of disturbance on soil microbial community and the resulting carbon functionality
+  b.	What do we know? What don’t we know? About soils?
+  c.	Why don’t we know? We don’t know anything about these critters and what they’re doing? How do they differ? 
+    1.	Ability to measure soil comm.
+    only recent
+    2.	Ability to measure soil function only recent.
     
+    
+2)	We need to know not only: is there turn over of spp, but also, is there change in functioning?
+  a.	This has been very coarse/difficult/impossible until advent of new genomic approaches. Which for eukaryotes, difficult. 
+  b.	Describe different ways to get at soil functioning
+  
+  
+3)	If so, then we need to be very worried since there are so few old soils left on this planet. IF they harbor uiniqe soil communities with unique functions, *?our attempts to regulate ecosystem functioning and mitigate anthropogenic disturbance may be more difficult or even impossible?*
+
+
+4)	This could have serious impacts, for example, on global carbon cycle.
+  a.	Fungi are a great models system for blah blah blah
+    1.	Discussion on recent advances in microbial community analysis including limitations for eukaryotes vs prokaryotes (1-3 paragraphs)
+      a.	This is important later. When you discuss why we know so little about succession in soil communities. This is part of the reason you’re able to ask this question
+    2.	A discussion about soils in carbon ecosystem functionality (maybe this is assumed knowledge) (1-3 paragraphs)
+      a.	Maybe not 3 paragraphs. And this needs to follow the Why is this important? Question. 
+    3.	Discussion pertaining to the idea that specific microbes can be associated with specific ecosystem processes and why this is important? (using findings from Fierer’s 2013 paper as reference) (1-2 Paragraph)
+      a.	Im not sure that this is necessary. The whole goal of the paper is to convinve your readers that late successional fungi may be very different from early successional spp in terms of how they interact with the carbon cycle.
+
+4. Discussion on the involvement of fungi in soil systems and carbon functionality (2-5 paragraphs)
+
+5. Discussion of disturbance impact on soil systems and microbial communities (2-4 paragraphs)
+
+6. Wrap everything into old growth forests, why this is a good study system, why it is important, etc. (2-4 paragraphs)
+
+
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+__Previous attempt at introduction__ (12/22/21): 
+
+Since the turn of the twenty-first century, advances in soil microbial analysis have allowed researchers to begin understanding microbial community composition and their influence in soil functionality (Fierer 2013, Hesse_2015, Lucia Žifcˇáková_2016, and Vojtech_2021). With recent progress in high-throughput sequencing methods (amplicon sequencing, metagenomics, and metatranscriptomics) we now have the capability to analyze what microbes are present in the soil community with the intent of determining their contribution towards specific soil ecosystem functions. Knight_2018 and Quince_2017). Using sequencing methods mentioned above, scientists have been able to determine which taxa are involved in soil ecosystem processes, such as decomposition of dead wood, including the percentage of involvement by specific phyla (Vojtech_2021). Additionally, some studies have been able determine which taxa are more actively involved (via transcription rates) in specific soil processes within different layers of soil (lucia_2016). Continuation and advancement of studies such as these is pertinent as they can help us to better understand how soil functionality changes with microbial community composition. This will drastically improve our ability to assess soil systems and develop management strategies by providing insight as to how natural communities respond to ecosystem threats such as disturbance and climate change.
+
+
+
+__new attempt__ (01/02/2022):
+
+The molecular era has brought a entirely new perspective to the world of microbial community analysis and with the progress in high throughput sequencing, we are now able to analyze entire microbial systems to determine "who is present" in almost any environment. One of the greatest benefactors of these new advances is the area of soil science, as advances in soil microbial analysis have now allowed researchers to begin understanding microbial community composition and their influence in soil functionality (Fierer 2013, Hesse_2015, Lucia Žifcˇáková_2016, and Vojtech_2021). A vast majority of these functional assessments use amplicon sequencing (16S, 18S, ITS, etc) to associate specific genes with the presence of species or operational taxonomic units (OTU's). However, this analysis fails to tell us anything about the active functionality of the system, and any associated correlation between microbial taxa are at best assumptions as to how they are involved in soil functionality. Old growth forests are currently under debate regarding their functionality in soil carbon dynamics (lyussart, etc...). It is our hypothesis that these systems not only contain unique fungal communities, but that these communities are associated with specific carbon functionality. Through the use of metatranscriptomics, enzyme analysis, and amplicon sequencing, we aim to determine if old growth forests retainspecific soil microbial communities and how said communities are associated with active soil carbon functionality.
+
+
+
+
+
+
+THe question that this should all converge around is, are old growth forests functionally different and do they harbor unique microbial communities...
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+__new attempt__ (01/03/2022):
+
+Since the development of genomic sequencing, ecologists and soil biologists alike have tried to analyze soil microbial communities to get at “who is there” and “what are they doing” (CITATION). Until recent advances in high-throughput sequencing, this remained a difficult task, especially for eukaryotes, and often reverted to “who is there” followed with a indirect understanding of the processes these organisms may be involved with. Scientists are now able to analyze soil communities and determine what organisms are present, and which organisms are contributing to specific ecosystem processes (CITATION). Old ecosystems with chronosequences provide us with unique opportunity to compare how microbial community and functionality change with time. It is our believe that natural succession (i.e. the lack of disturbance) allows systems to develop unique microbial communities with distinct functionality. Analysis of these old soils must take precedence as systems such as old growth forests are dwindling by the hour. By further analyzing how microbial communities develop with succession, and how they change the functioning of the system, we can determine if action must be taken to preserve these communities and how to direct management strategies.
+
+
+Outline: I am starting to get an idea of this now, I see how moving through this it should operate as a story. I am a bit lost on what to include in terms of should I just stick to carbon and fungi? or should I consider all nutrients and biota (as support) and narrow into carbon and fungi as I move along?
+
+*__Start with soils__*:
+
+What we know about soils and succession (emphasis on carbon? or keep it general?)
+  + Soil and carbon
+    ++ How does carbon impact the soil
+    ++ who plays a role in carbon dynamics
+      +++ plants, bacteria, FUNGI
+        ++++ Why fungi are ideal organisms for looking at carbon dynamics
+  + What is succession?
+      ++ How do soils change? is there evidence that it does?
+        +++ are there general changes or is it ecosystem specific?
+        +++ are there any trends that have arisen?
+        +++ what happens when succession is prevented (lead into next topic)
+  + forward succession vs. reverse succession (i.e. natural succession and disturbance)
+      ++ dive into disturbance here?
+        +++ types of disturbance
+          ++++ different types of disturbance have different impacts on the system. (i.e. natural vs. anthropogenic)
+        +++ impacts of disturbance on soil structure/physiology (should I include chemical disturbance?)
+        +++ does it appear disturbance can be "reverted" (better place for this? There are some papers showing that even after natural                succession - post disturbance - forests/soils do not return to previous states, I thought this was powerful information that              supports the need to understand if there is a uniqueness to old soils)
+      ++ Final sentence/paragraph can lead into succession and organisms
+  
+What do we know about soil succession and its impact on organisms (community/composition) - do we keep this to soil organisms or go bigger
+  + how does succession change biota in the system?
+  + are old soil systems different from younger ones (diversity/abundance)?
+      ++ brief on plants? (if we think it will be impactful)
+      ++ microbes in general
+      ++ fungi
+        +++ what do we know about fungal succession
+        +++ what do we not know about fungal succession.. lead into functionality
+      
+        
+What do we know about soil succession and functionality?
+  + do we have any evidence that soils change functionally as the move forward (or backwards) in succession?
+      ++ what organisms: plants? bacteria? fungi?
+        +++ fungi and soil (carbon?) functionality?
+        +++ what do we know about fungal functionality and succession? is there evidence that fungi function differently in different                 stages?
+      ++ why is understanding soil functionality important
+      ++ how do we get at soil functionality (transition into genomics)
+      
+
+__*Soils and genomics*__: Strictly fungal? or compare to bacterial?
+
+Traditional approach for soil fungal genomics (i.e. amplicon, metagenome, (shotgun?))
+  + What we can get from this
+    ++ what is the typcal appraoch for fungal functionality
+      +++ what have we found, what is this not enough? (its basically assumed functionality... OTUs/ genes, presence of genes, but not              functionality... leads into the next )
+  + What we cant get from this (limitations)
+
+Recent advances in genomics
+  + What we can now do with shot-gun sequencing and metatranscriptomics (is shotgun included in the new advances? Ill check my research on     fungal genomics to see if its been used much)
+  + Limitations
+  + Can we now get at active functionality (key papers)
+  + not sure how ill tie this into the next section yet. 
+  
+  
+  
+__*Old Growth Forests*__:
+
+Wrap everything into OGF/chronosequences
+  + why OGF are great systems
+    ++ why chronosequences are great ways to look at this.
+  + why might OGF be different than younger forests
+     ++ both from a physiological standpoint, microbial standpoint, and a functional standpoint
+
+
+__*Materials and Methods*__:
+
+To accomplish our aim of getting at how soil microbial communities change and whether or not carbon functionality changes as well, we have broken this project into three main parts
+
+  1. Proof of concept experiments in the lab: This experiment will validate our approach for determining microbial community and soil functionality. 
+  
+  2. Analyzing the ecosystem: broken into field work and post field (lab) work
+    a. Field work: physiological measurements, soil sampling, more? This experiment will provide us with the soil samples and the proper metadata to determine physiological patterns associated with community composition and succession.
+    b. Testing soil carbon functionality: This greenhouse expirement will provide support as to whether or not the soils from old growth forests are functionally different, from a carbon perspective
+    
+  3. DNA/RNA extraction, phylogenetic assembly and metadata relationships: This expirement will provide us with the community and composition of each succesional stage, as well as the functionality (RNA expression) associated. In combination with the physiological data this will allow us to make conclusions as to weather old soils harbor unique microbial communities that are functionally different from younger stages. 
+  
+
+Hypothesis: 
+
+1. Proof of Concept: It is hypothesized that the metatranscrptomic approach will allow us to determine microbial community, and the  (active) soil functionality associated with each communuty member (phylum level?)
+  b. a more general hypothesis: It is hypothesized that the metatranscriptomics approach will provide more detailed information without a significant loss in the "accuracy" of determining the microbial communuty and functionality. 
+  
+2.a Field work: It is hypothesized that there will be a significant correlation between forest successional stage and physiological parameteres. I.e. parameters will change accordingly with succession progression.
+  b. Soil Carbon Functionality: It is hypothesized that the tested soil carbon functionality (i.e. enzyme activty, etc.) will be significantly correlated with the successional stage in which the soils were taken from. I.e. the soils from old growth forests will have distinct carbon functionality in comparrison to "younger soils".
+  
+3. a. It is hypothesized that there will be a significant relationship between successional stage, soil functionality, and the assembled phylogenetic community with supporting trends from the associated metadata
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 01/02/2022: Today we are trying to learn about fungal community succession and carbon.
+How do fungal communities change with succession and how do they influence carbon dynamics.
+```{r}
+#@Clemmensen_2013/2014: This study  used 454-pyrosequencing to identify fungal communities across fine-scaled soil profiles in a 5000 yr fire-driven boreal forest chronosequence, with the aim of pinpointing shifts in fungal community composition that may underlie variation in below-ground C sequestration.
+
+# In early successional-stage forests, higher abundance of cord-forming ectomycorrhizal fungi (such as Cortinarius and Suillus species) was linked to rapid turnover of mycelial biomass and necromass, efficient nitrogen (N) mobilization and low C sequestration.
+
+#In late successional- stage forests, cord formers declined, while ericoid mycorrhizal ascomycetes continued to dominate, potentially facilitating long-term humus build-up through production of melanized hyphae that resist decomposition.
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+```
+
+
+
+What is the general assumption of forest carbon dynamics during succession:
+```{r}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 01/02/2022: Next I need to determine exactly what we know about fungal metatranscriptomics. 
+
     
 

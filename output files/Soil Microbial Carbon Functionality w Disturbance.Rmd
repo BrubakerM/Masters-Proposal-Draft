@@ -10,3 +10,17 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Need to fill this in with soil microbial (carbon) functionality and disturbance:
+
+
+```{r}
+# @Zhenghu Zhou1 2017: Effects of forest degradation on microbial communities and soil carbon cycling: A global meta-analysis
+#     - Forest degredation decreased the ratio of K-strat : r-strat
+#     - Forest degradation consistently decreased the abundance of fungi across all the land-use change types
+#     - Forest degradation consistently decreased the fungi to bacteria ratio, (this suggests fungi are more senstive to degredation)
+#     - Forest degradation significantly (p<.05) increased both the Shannon index and richness for all the land-use change types except for         the Shannon index for the conversion of primary forest to secondary forest
+#     - Forest degradation significantly decreased microbial respiration, but increased the qCO2 across all the land-use change                     types.... This indicates that reduction in microbial respiration was likely due to physical loss of microbial biomass, as the               microbial respiration rate per microbial unit (qCO2) increased
+#NOTE: The above observations are all trends, they would have to be sourced and checked to see how microbial abundances were determined.
+
+
+```
+

@@ -1,0 +1,304 @@
+---
+title: "Late Succession Soils"
+author: "Max Brubaker"
+date: "12/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Here is where I can take notes and information regarding soils during late succession stages. This is a central building block to my paper as it will help inform me of:
+
+  + What we know about soils as they age, what don't we know?
+      + What do we know about soil chemistry/physiological parametersl
+      + What we know about microbial communities (fungi, bacteria, etc) as we get into late succession (old growth)
+          + How we know these things
+      + What we dont know about these communities
+          + Why we dont know them
+          
+          
+          
+          
+          
+My goal for the next 4 days is to fill this page with information regarding soil sucession. From physiological parameters to biotic trends, I want to try and understand as much as I can about soil succession by the end of the weekend.
+
+
+# Relevence:
+```{r}
+# @Liu_2020: Understanding the changes in microbial community composition that occur during succession can help elucidate the mechanisms that drive successional dynamics. However, the mechanisms underlying community assemblages and promoting temporal succession are often overlooked in microbial ecology, and comparisons of the relative roles of bacteria and fungi during long-term secondary succession are rare. Our findings suggest that the relationships between soil physicochemical properties and microbial communities mutually influence one another, leading to their ongoing relationship in the course of secondary succession.
+
+
+# @Zhong_2018: The succession of microbial community structure and function is a central ecological topic; however, the mechanisms that underlie community assembly and promote temporal succession remain unclear.
+
+
+
+# @Jiang_2021: Clarifying the response of soil microbial communities and their potential functions during succession is of great significance for understanding the biogeochemical processes and the sustainability of forest development.
+
+
+# @McGee_2018: (Tropical) secondary forests  are critical candidates for maintaining global biodiversity and enhancing potential carbon-use efficiency (CUE) and, thus, carbonequestration. However, forest ecosystems can exhibit multiple successional pathways, which have hindered our understanding of the soil microbial drivers that facilitate improved CUE. 
+
+
+# @Yan_2020: It is unclear how the microbial composition and the potential function of C and N cycling change with forest secondary succession.
+
+# @G.Wang_2021: Changes in the plant community directly affect microbial communities and soil characteristics (Mendes et al. 2015;Wang et al. 2019). In turn, microorganisms can also affect vegetation communities by changing the soil nutrient status (Prober et al., 2015, Zhong et al. 2020). This indicates a important relationship making it essential to explore the interactions among soil characteristics, above-ground vegetation communities, and below-ground microbial communities during secondary succession. Previous studies have reported changes
+
+
+# @Chen_2020: Predicting changes in carbon and nutrient cycles in plantations requires a mechanistic understanding of the effects of stand age on soil quality and microbial communities
+
+# @J.Wang_2019: Microorganisms play critical roles in soil biogeochemical processes and the establishment of vegetation communities. However, their long-term successional patterns and associations with environmental factors are not well understood.
+
+# @@Cho_2017: Although disturbance is thought to be important in many ecological processes, responses of fungal communities to soil disturbance have been little studied experimentally.
+
+# @Zifcakova_2016: Understanding forest ecology is essential for predicting and managing C-cycling processes and their impacts on climate change. We currently lack fundamental knowledge on how microorganisms function as key mediators of C-cycling processes in these ecosystems as well as the identification of the specific roles of individual taxa.
+
+
+# @Kuramae_2010: Although secondary succession has been studied extensively, we have little knowledge of the succession of soil-borne microbial communities
+
+
+# @Y.Wang_2021: Primary or secondary forests around the world are increasingly being converted into plantations. Soil microorganisms are critical for all biogeochemical processes in ecosystems, but the effects of forest conversion on microbial communities and their functioning remain unclear
+```
+
+
+
+
+
+
+
+
+
+# Physiological Parameters:
+```{r}
+# @Liu_2020: Changes in soil microbial community structure during longterm secondary succession
+#       - During succession, soil bulk density, soluble carbon, total nitrogen and plant richness had large effects on the microbial                community.
+#       - SOC, DOC, and DON increased along a successional gradient
+#       - A large regional-scale survey of microbial abundance and community structure revealed that soil factors were the key drivers of microbial community structure (Hu et al., 2014).
+------------------------------------------------------------------------------------------------------------------------------------
+
+# @Zhong_2018: Decreased occurrence of carbon cycle functions in microbial communities along with long-term secondary succession
+#        -  The soil characteristics during succession explained 67.2% and 69.7% (r2) of the variation in the bacterial and fungal                   communities, respectively, and the litter characteristics explained 17.4% and 15.6% of the variation in the bacterial and fungal communities, respectively. SOC, TN and BD, which were the most important soil factors affecting microbial community and change in function
+#        -  Both litter characteristics and soil properties were closely associated with the soil microbial communities and their gene               functions  which is consistent with the results obtained in studies of primary succession along a developmental sand-dune soil chronosequence (Williams et al., 2013)
+------------------------------------------------------------------------------------------------------------------------------------
+  
+#@Jiang_2021: Changes in soil bacterial and fungal community composition and functional groups during the (PRIMARY) succession of boreal forests
+#        - In this study, the soil total carbon and total nitrogen were the dominating factors affecting the soil microbial community and the structure of fungal functional groups. Our results suggest that the shifts in fungal community structure and functional groups may play a key role in soil nutrient cycling during boreal ecosystems succession.
+  
+------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+#@McGee_2018: Determinants of Soil Bacterial and Fungal Community Composition Toward Carbon-Use Efficiency Across Primary and Secondary Forests in a Costa Rican Conservation Area
+#        - Our analyses showed that even after 33 years of natural forest regrowth, the clearing of tropical forests can have persistent effects on soil microbial communities and that it may take a longer time than we realized for secondary forests to develop carbon-utilization efficiencies similar to that of a primary forest. 
+#        - Our results also indicated that forms of inorganic N may be an important factor in structuring soil Cmic and the soil microbial communities, leading to improved CUE in regenerating secondary forests. 
+  
+------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+# @Yan_2020: Change in composition and potential functional genes of soil bacterial and fungal communities with secondary succession
+#        - SOC, TN, Soil C/N, AMM (soil ammonium nitrogen), pH, MOI (soil moisture), EC (activated carbon). and root boimass all showed positive trends with increase in succession
+  
+------------------------------------------------------------------------------------------------------------------------------------
+ 
+# @G.Wang_2021: Effects of secondary succession on soil fungal and bacterial compositions and diversities in a karst area
+  #      - Total P was the most important environmental factor and positively affected fungal diversity, most likely because of the lack of P in karst areas during secondary succession (He et al. 2008). In contrast, soil Fe and Cu negatively affected fungal diversity. In addition, soil pH was also an important environmental factor for fungal diversity, which is consistent with previous findings (Liu et al. 2018; Vasco-Palacios et al. 2020).
+
+------------------------------------------------------------------------------------------------------------------------------------
+# @Chen_2020: Tight coupling of fungal community composition with soil quality in a Chinese fir plantation chronosequence
+#       - Soil properties showed pronounced changes with stand age in the topsoil. Soil organic carbon (SOC), total nitrogen (TN) and available phosphorus             (AP) were 2.1, 1.9 and 2.2 times higher, respectively, in the oldest stands than in the youngest stands. Fungi abundance increased along with these           soil quality indicators, however fungal diversity increased overall with stand age.
+  
+------------------------------------------------------------------------------------------------------------------------------------
+  
+# @J.Wang_2019: Higher temporal turnover of soil fungi than bacteria during long-term secondary succession in a semiarid abandoned farmland chronosequence comprising six successional stages (0, 11, 35, 60, 100, and 150-years)
+#        - The following parameters increased along a succession gradient. Organic C, Total N, Available P (not total P), Nitrate (NO3-) and Ammonium (NH4+)            nitrogen, and water content.
+
+------------------------------------------------------------------------------------------------------------------------------------
+# @Cho_2017: Changes in Soil Fungal Community Structure with Increasing Disturbance Frequency
+  
+  
+  
+------------------------------------------------------------------------------------------------------------------------------------ 
+# @Kuramae_2010: Microbial secondary succession in a chronosequence of chalk grasslands: ONLY BACTERIA
+#        - Belowground, decreases in nitrogen turnover and shifts in ammonia- oxidizing bacterial communities have also been observed in the advanced stages            of secondary succession (Kowalchuk et al., 2000).
+#        - Soil NO3, NH4 and available P concentrations were significantly different across the various succession stages. In general, NO3 and P decreased              with time.
+  
+  
+------------------------------------------------------------------------------------------------------------------------------------ 
+# @Y.Wang_2021: Forest conversion to plantations: A meta-analysis of consequences for soil and microbial properties and functions:
+#        - We collected 524 paired observations from 138 studies globally. We found that conversion leads to broad range of adverse impacts on soils and                microorganisms, including on soil organic carbon (−24%), total nitrogen (−29%), bacterial and fungal biomass (−36% and −42%, respectively),                  microbial biomass carbon (MBC, −31%) and nitrogen (−33%), and fungi to bacteria ratio (F:B, −16%).
+#        - Soil C and N contents as well as the C:N ratio were the main factors responsible for the changes of microbial C, F:B, and bacterial richness.
+#        - Results of our meta-analysis showed that natural forest conversion to plantations reduced litterfall by 28%  Soil bulk density increased by 10%,           - while SOC, TN, C:N, mineral N, ammonium N, nitrate N, and Al content decreased by 26%, 30%, 8.5%, 20%, 28%, 31%, and 43%, respectively.
+#        - NO SIG. CHANGE IN: There were no significant changes in soil texture, pH, moisture, electrical conductivity, TP, available P, TK, available K, Ca,            Mg, and CEC ***
+```
+
+
+
+
+
+
+
+# Plants
+```{r}
+# @Cutler et al. (2014) reported that plant community changes are significant for fungal communities but less relevant for bacterial communities in primary succession due to the close relationship between the plant and fungal communities because plants drive pedogenic change during early soil development and then drive the selection of soil bacterial communities (Williams et al., 2013).
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+```
+
+
+
+
+
+
+
+
+# Fungi/Bacteria
+```{r}
+# @Liu_2020: Changes in soil microbial community structure during longterm secondary succession:
+#      - Our results showed that the abundance of both bacteria and fungi increased with succession in the early stages but then reached a relatively stable state in later successional stages. Supported by Darcy et al. (2018).
+#      - Diversity showed a fairly linear increase with succession, and there were inconsistent changes between the bacterial and fungal          communities.
+#      - The abundance of most phyla showed parabolic trends with succession; however, Verrucomicrobia and Basidiomycota showed linear INCREASES with succession, and Cercozoa and Chytridiomycota showed linear DECREASES with succession. These microbial taxa may be considered collaborative development microbial biomarkers of secondary succession.
+#      - Fungal communities were more sensitive than bacteria. Asymtotic decrease in ascomycota, and a linear increase in basido. 
+#      - compositions of both the bacterial and the fungal communities changed significantly among the successional stages (supported elsewhere also), warrenting further study in soil microbial successional functionality.
+------------------------------------------------------------------------------------------------------------------------------------
+
+# @Zhong_2018: Decreased occurrence of carbon cycle functions in microbial communities along with long-term secondary succession
+#        - Fungi showed higher variability with succession than bacteria, and the shift of both the bacterial and fungal communities was related more to the soil characteristics than to the litter characteristics. 
+#        - Shifts in soil microbial functions were associated with microbial phylogenetic changes, but microbial gene function also showed changes in the absence of phylogenetic changes at the late successional stages. 
+#        - abundance of Ascomycota and Zygomycota  DECREASED, and the phylum Basidiomycota INCREASED from S1 to S4.
+#        - The results showed that soil respiration increased with succession during incubation without the addition of litter,                     indicating that soil microbial activity increased with succession. Interestingly, the litter decomposition rate was higher in S1 and S2 than in S3 and S4... 
+#        - The microbial community changed little after the pioneer forest stage (S3), as evidenced by the lack of difference in composition between S3 and S4 in either the bacterial or fungal communities. However, the gene families present at these stages showed changes, indicating that a functional shift continued even when the community composition showed little change. --- this SUPPORTS the need to further understand microbial functionality as even though diversity or richness may remain similar after certain succession, functionality can still change. This also SUPPORTS the need for specific microbial community identification at different successional stages as there may be groups of microbes associated with specific functionality.
+#                 - This idea was supported by (Cong et al., 2015), who reported that the potential function significantly differed                          when there were no significant differences in microbial community between forests.
+#      - In the present study, analysis indicated that the fungal community was more sensitive to successional change than the bacterial community. Supported by  (Dini-Andreote et al., 2016)
+#      - In our secondary succession, the fungal community showed higher variability with succession, but compared with the litter properties, the soil properties exhibited larger effects on microbial community and functional shift.
+  
+  
+------------------------------------------------------------------------------------------------------------------------------------
+#@Jiang_2021:Changes in soil bacterial and fungal community composition and functional groups during the (PRIMARY) succession of boreal forests 
+  
+#        - The results showed that forest succession significantly changed the community composition of bacteria and fungi, among which the fungal community was more sensitive to the changes with successional stage.
+#        - The relative abundance of ectomycorrhizal fungi significantly increased with succession, while the relative abundance of bacterial functional groups involved in the nitrogen cycle did not change significantly, indicating that fungi might play a major regulatory role in the nutrient cycling process during the successional process.
+#        - the succession significantly affects the composition of fungal functional groups, while bacterial functional groups do not change significantly. This indicates that the change of soil function in the succession can mainly be mediated by fungi.
+
+------------------------------------------------------------------------------------------------------------------------------------
+#@McGee_2018: Determinants of Soil Bacterial and Fungal Community Composition Toward Carbon-Use Efficiency Across Primary and Secondary Forests in a Costa Rican Conservation Area. Primary(undisturbed in known history), Old-Secondary (33yrs), and  Young (22)
+#        - We found that soil Cmic (soil microbial biomass carbon) levels increased along the management gradient from young, to                    old secondary, to primary forest. In addition, the changes in soil Cmic and soil fungal community structure were significantly related to levels of soil NO3
+
+------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+# @Yan_2020: Change in composition and potential functional genes of soil bacterial and fungal communities with secondary succession
+#        - Soil microbial biomass C, N, and P increased significantly in topsoil (0–20 cm) with vegetation succession. 
+#        - The abundances of bacteria increased initially and then decreased slightly, whereas an increase in fungal abundances and the ratio of fungi to bacteria was detected along a successional gradient -- Microbial communities tended to shift from r- to k-strategists, both at the phylum and genus levels. 
+#        - Redundancy analysis indicated that bacterial communities were influenced by available phosphorus contents and soil C: N ratios, and that fungal communities were mainly affected by ammonium N contents and root biomass. 
+#        - Fugi to bacteria ratio positively correlated with the soil C:N ratio in this study, supporting the findings of Jia et al.                (2010), Zhou et al. (2017), and Liu et al. (2018). This correlation might exist because bacteria require more N per unit of accumulated C biomass than fungi (Fierer et al., 2009; Deyn et al., 2010).
+------------------------------------------------------------------------------------------------------------------------------------
+
+#@G.Wang_2021: Effects of secondary succession on soil fungal and bacterial compositions and diversities in a karst area.
+#        - Bacterial diversity decreased slightly with increasing site age, while fungal diversity first increased and then decreased.              Ascomycota was the dominant fungal phylum, and its abundance decreased significantly, from 83.21% in farmland to 49.66% in old-growth forests, while that of Basidiomycota increased significantly from 4.52 to 35.43%. The soil bacterial community was dominated by Proteobacteria. These increase/decreases are only from farmrland - 3 year old forest sights... but trends still maintained into OFF.
+  
+#        - The fungal and bacterial diversities were mainly affected by soil properties. At the older sites, high levels of soil nitrate nitrogen (N), ammonium-N, total N, soil organic carbon, calcium, and magnesium and relatively low levels of soil potassium and available phosphorus (P) resulted in decreased bacterial diversity. Fungal diversity was positively affected by soil total P and pH and negatively affected by soil iron and copper
+
+  
+------------------------------------------------------------------------------------------------------------------------------------
+# @Chen_2020: Tight coupling of fungal community composition with soil quality in a Chinese fir plantation chronosequence
+#          - Mycorrhizal fungi initially increased in younger stands, but then they were gradually replaced by saprotrophs in older stands due to larger litter fall. Strong positive correlations between saprotrophic fungi and key soil quality indicators, such as TN, AP and NH4+, confirmed that abundance of decomposers is tightly linked with higher soil quality.
+  
+#          - The dominant soil fungal phyla were Ascomycota, Basidiomycota, Zygomycota and Rozellomycota . In the 0–5 cm layer, the relative abundance of Basidiomycota decreased with stand age, while Ascomycota and Zygomycota were more abundant in the 32- and >80-year-old stands than in the younger stands. In the 5–15 cm layer, Ascomycota was 1.5 times more abundant in the >80-year-old stand than in any other aged stands, while Basidiomycota were extremely rare. Functionally, the soils were dominated by saprophytic fungi across all stand ages. The mycorrhizal fungi initially increase early in stand development, but they subsequently decreased in both soil layers after the stand matured  
+  
+------------------------------------------------------------------------------------------------------------------------------------
+  
+# @J.Wang_2019: Higher temporal turnover of soil fungi than bacteria during long-term secondary succession in a semiarid abandoned farmland chronosequence comprising six successional stages (0, 11, 35, 60, 100, and 150-years). Temporal turnover of microbial succession was investigated using the slope (w value) of linear regression of log-transformed microbial community similarity over time.
+#          - Succession rate of fungi was approximately three times higher than that of bacteria. 
+#          - Bacterial succession was affected by changes in soil NH4+ -N, total N, organic C, water content, bulk density, and pH, whereas fungi were more               susceptible to changes in NO3− -N, available phosphorus, and C:N ratio. 
+#          - Bacterial communities transitioned from slow-growing oligotrophic groups (Gemmatimonadetes, Chloroflexi) to fast-growing copiotrophic groups                 (Alpha- and Betaproteobacteria). Basidiomycota showed the highest temporal turnover (w=0.2000, P<0.0001), followed by Armatimonadetes,                       Firmicutes, Verrucomicrobia, Chloroflexi, and Proteobacteria
+#          - (stated in intro) Fernandez-Martinez et al. (2017) found distinct successional trajectories for bacteria and fungi along glacier forefield                   chronosequences, with bacteria playing an important role in the initial stages of succession, whereas fungi could play a predominant role in the              later stages.
+#          - Soil communities were assigned to a total of 41 bacterial and 8 fungal phyla. Proteobacteria was the most abundant bacterial phylum across all               succession stages, accounting for 33.54% of all sequences, followed by Actinobacteria (18.90%), Acidobacteria (18.16%), Chloroflexi (5.78%),                 Planctomycetes (4.80%), Firmicutes (3.65%), Bacteroidetes (3.35%), and Gemmatimonadetes (3.24%)
+#          - The fungal community was dominated by the phylum Ascomycota (47.30%), followed by Zygomycota (22.27%), Basidiomycota (17.49%), and                           Chytridiomycota (0.31%). The relative abundance of Ascomycota decreased with succession time, and was obvious in order Microascales belonging to              the class Sordarimoycetes. The relative abundance of Basidiomycota increased with time, and was characterized by a higher abundance of class                 Agaricomycetes and order Tremellales
+#          - The ordination of NMDS (Fig. 5a and b) and ANOSIM analysis  uncovered clear variations in bacterial and fungal community composition. Bacterial              communities could be classified into four groups: farmland and 11-year sites were clearly separated from each other, 35- and 60-year sites                   tended to group together, and 100- and 150-year sites tended to group together and were clearly separated from other sites.
+#          -  Fungal communities were diferent at all 6 successional stages. 
+#          - There was a significant difference in temporary turnover between bacterial and fungal communities with succession. The slope in the                          fungal communities was significantly steeper than that in the bacterial communities indicating an almost three times faster rate of succession                for fungi than for bacteria.
+  
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+# @Cho_2017: Changes in Soil Fungal Community Structure with Increasing Disturbance Frequency
+#          - Study subjected a soil microcosm to physical disturbance, at a range of frequencies designed to simulate ecological disturbance events. Fungal               diversity was found to decline with the increasing disturbance frequencies, with no sign of the humpback^ pattern found in many studies of                   larger sedentary organisms.
+#          - Changing disturbance frequency also led to consistent differences in community composition. There were clear differences in OTU-level                        composition, with different disturbance treatments each having distinct fungal communities. The functional profile of fungal groups (guilds) was              changed by the level of disturbance frequency.
+#          - Each fungal phylum showed a distinct pattern in relative abundance in relation to disturbance frequency. Basidiomycota were                                  significantly more abundant in the more frequently disturbed soils rather than the less often disturbed ones (p < 0.05), while Ascomycota showed              the opposite trend—becoming less abundant in the more frequently disturbed treatments. Zygomycota were more abundant at the highest disturbance              frequency 
+  
+
+------------------------------------------------------------------------------------------------------------------------------------ 
+# @Y.Wang_2021: Forest conversion to plantations: A meta-analysis of consequences for soil and microbial properties and functions:
+  
+#          - In addition, we found impacts on the ratio of MBC to soil organic C (qMBC, −20%), microbial respiration (−18%), N mineralization (−18%), and                 enzyme activities including β-1,4- glucosidase (−54%), β-1,4- N- acetylglucosaminidase (−39%), and acid phosphatase (ACP; −34%). In contrast,                conversion to plantations increases bacterial richness (+21%) and microbial metabolic quotient (qCO2, +21%).
+#          - Applying macro-ecology theory on ecosystem disturbance in soil microbial ecology, we show that microbial groups shifted from K to r strategists              after conversion to plantations.    
+#          - Across all individual studies, the conversion of natural forests to plantations significantly decreased total PLFA, and bacterial and fungal                 biomass by 33%, 36%, and 42%. respectively. Concomitantly, MBC and MBN decreased by 31% and 33%, respectively (Figure 3). The F:B decreased                  (16%) due to greater drop in fungal biomass compared to bacterial biomass.
+#          - The weighted random-forest analysis showed that the two most important factors of the effects of forest conversion on microbial biomass and                  communities were total N and SOC for microbial C; soil C:N and moisture for F:B; and soil C:N and total N for bacterial richness
+```
+
+
+
+
+
+
+
+
+
+
+
+#Genomics
+```{r}
+# @Zhong_2018: Amplicon seq (16s and ITS?) and "putative amino acid sequences translated from gene catalog. Genes were predicted on the contigs using "MetaGeneMark". The soil metagenomics reads were annotated using the KEGG database and the CAZy database to compare the relative abundances of functional genes of the C and N cycles among the successional stages. (REMINDER: not active functionality)
+#        -  The reduction in microbial C cycle genes was related to a decrease in litter decomposition ability, thus resulting in a steady state of nutrient cycle in the ecosystem.
+#        -  The genes identified as related to the C cycle based on the KEGG database (C cycle and C degradation) showed the highest relative abundances in S1 and decreased in abundance with succession (Figs. 4 and 6a), consistent with the total abundance of CAZy genes, which also decreased with years of succession
+#        -  In addition, the relative abundances of the genes related to N metabolism and N fixation increased from S1 to S3 and then                decreased in S4
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+#@Jiang_2021:Changes in soil bacterial and fungal community composition and functional groups during the (PRIMARY) succession of boreal forests. This study used 16S and ITS rRNA gene sequencing to detect bacterial and fungal communities and used FAPROTAX and FUNGuild database to predict bacterial and fungal functional groups. (REMINDER: not active functionality).
+  
+
+------------------------------------------------------------------------------------------------------------------------------------
+#@McGee_2018: Determinants of Soil Bacterial and Fungal Community Composition Toward Carbon-Use Efficiency Across Primary and Secondary Forests in a Costa Rican Conservation Area. Primary(undisturbed in known history), Old-Secondary (33yrs), and  Young (22)
+  
+------------------------------------------------------------------------------------------------------------------------------------
+  
+  
+# @Yan_2020: Change in composition and potential functional genes of soil bacterial and fungal communities with secondary succession. All I could figure out here is that they extracted DNA (no indication of amplicons), they run it through some processes and end up with contigs, which they use to assemble "open reading frames" (ORF) through the use of MetaGene, these ORF's were then used to assemble amino acid sequences and genes were estimated with 90% coverage?? They used one more program to determine abundance of genes and another to assign ORFs to functional annotation... I did not follow this fully...
+#      - 
+#      - With vegetation succession, the abundances of C and N cycle-related potential functional genes first significantly increased and then stabilized. Among them, the relative abundances of recalcitrant C degradation-, N fixation-, and ammonification-related genes increased, whereas labile C degradation-, N reduction-, and denitrification-related genes tended to decrease.
+#      - Predicted microbial functional genes were affected by ammonium N and activated C contents.
+  
+------------------------------------------------------------------------------------------------------------------------------------
+
+#@G.Wang_2021: Effects of secondary succession on soil fungal and bacterial compositions and diversities in a karst area. PCR 16S/ITS amplicon sequencing was used to determine diversity. Methods were used to assemble OTUs
+
+  
+------------------------------------------------------------------------------------------------------------------------------------
+# @Chen_2020: Tight coupling of fungal community composition with soil quality in a Chinese fir plantation chronosequence. Aplicon sequencing using 16S/ITS. Amplicons were grouped by illumina MiSeq. OTU's were id with a 97% threshold and sorted into taxons using BLAST against the UNITE database. The FUNGuild tool was used for funguilds assignment
+  
+  
+------------------------------------------------------------------------------------------------------------------------------------
+  
+# @J.Wang_2019: Higher temporal turnover of soil fungi than bacteria during long-term secondary succession in a semiarid abandoned farmland chronosequence comprising six successional stages (0, 11, 35, 60, 100, and 150-years). Bacterial and fungal communities were characterized by sequencing bacterial 16S ribosomal RNA genes and fungal internal transcribed spacers (ITS), respectively. Information was "QA/QC" checked and then sequences were clustered and assigned to OTU's. (NMDS) was employed to assess differences in microbial community structure based on Bray-Curtis distance among the different successional stages, with significance testing performed using analysis of similarities (ANOSIM)
+  
+------------------------------------------------------------------------------------------------------------------------------------
+# @Cho_2017: Changes in Soil Fungal Community Structure with Increasing Disturbance Frequency. study analyzed the fungal community structure using Illumina HiSeq sequencing of the ITS1 region. The study was interested in determining the functional categories ("guilds") of the identified fungi as disturbance changed. This involved pairing of high-throughput sequencing and the better automation of parsing fungi by ecological guild using FUNGuild. FUNGuild assigns function based on matches at the genus and species level along with a confidence level: We only considered probable and highly probable confidence score guild assignments.
+#        - Fungal ITS1 copy numbers were most abundant at the highest and intermediate disturbance levels and remained least abundant at low disturbance                frequency with no disturbance
+#        - The ratio of fungi to bacteria was highest in the more frequently disturbed treatments and lowest in less frequently disturbed treatments
+#        - OTU richness and Shannon index had a statistically significant (all p < 0.05) tendencies to decrease as the disturbance frequency increased.
+  
+  
+------------------------------------------------------------------------------------------------------------------------------------ 
+# @Kuramae_2010: Microbial secondary succession in a chronosequence of chalk grasslands: To follow microbial community succession, we subjected total soil DNA extracts to analysis with 16S rRNA gene-based microarrays, PhyloChips (DeSantis et al., 2007), and phylum-specific quantitative (Q)-PCR (Supplementary material and methods) and compared resulting patterns with changes in environmental conditions during secondary vegetation succession. ALL BACTERIA
+  
+  
+------------------------------------------------------------------------------------------------------------------------------------ 
+# @
+  
+
+```
+     
+    
